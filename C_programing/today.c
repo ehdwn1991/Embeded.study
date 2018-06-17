@@ -9,27 +9,27 @@ int my_strlen();
 int main(int argc, char *argv[]){
 
 
-// int a=5,b=8;
-// int *q=&a,*p=&b;
+int a=5,b=8;
+int *q=&a,*p=&b;
 // int temp=0x12345678;
 // char *test;
 // char *f;
 // char *s;
 // char swap_char;
+printf("a==>:%p\n",&a );
+	ex(&q,&p);
+printf("%d %d\n",*q,*p);
+printf("%d %d \n",a,b );
 
-// 	ex(&q,&p);
-// printf("%d %d\n",*q,*p);
-// printf("%d %d \n",a,b );
-
-int arr[5]={3,5,6,7,9};
-int res=0;
-int size=sizeof(arr)/sizeof(int);
-res=sumo(arr,size);
-printf("%d\n",res );
+// int arr[5]={3,5,6,7,9};
+// int res=0;
+// int size=sizeof(arr)/sizeof(int);
+// res=sumo(arr,size);
+// printf("%d\n",res );
 // test(arr);
 
 
-pro1();
+// pro1();
 
 
 
@@ -40,7 +40,7 @@ pro1();
 
 // }
 void pro1(){
-	char buff[]="embeded";
+	char buff[]="embedded";
 	int len=0;
 	len=my_strlen(buff);
 	printf("%d\n",len );
@@ -77,8 +77,11 @@ int sumo(int *a,int size){
 
 void ex(int *a,int *b){
 	int temp;
+	printf("address of a:%p\n",&(a) );
+	printf("before swap => q has : %p p has : %p\n",*a,*b );
 	temp=*a;
 	*a=*b;
 	*b=temp;
+	printf("after  swap => q has : %p p has : %p\n",*a,*b );
 
 }
