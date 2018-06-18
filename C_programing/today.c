@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-void ex();
+void best_reverse();
 int sumo();
 void test();
 void pro1();
@@ -17,7 +17,7 @@ int *q=&a,*p=&b;
 // char *s;
 // char swap_char;
 printf("a==>:%p\n",&a );
-	ex(&q,&p);
+	best_reverse(&q,&p);
 printf("%d %d\n",*q,*p);
 printf("%d %d \n",a,b );
 
@@ -75,13 +75,13 @@ int sumo(int *a,int size){
 }
 
 
-void ex(int *a,int *b){
-	int temp;
-	printf("address of a:%p\n",&(a) );
-	printf("before swap => q has : %p p has : %p\n",*a,*b );
-	temp=*a;
+void best_reverse(int **a,int **b){
+	int *temp=*a;
+	printf("add_pt:%p add_pv:%p\n",*a,*b );
+	printf("add_pt:%p add_pv:%p\n",a,b );
+	printf("add_pt:%p add_pv:%p\n",&a,&b );
+	// temp=*a;
 	*a=*b;
 	*b=temp;
-	printf("after  swap => q has : %p p has : %p\n",*a,*b );
 
 }

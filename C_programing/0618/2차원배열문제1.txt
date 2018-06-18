@@ -1,0 +1,70 @@
+#include <stdio.h>
+
+int find_UpAlpha(char (*pS)[50]);
+
+int main(void)
+{
+    char str[3][50] = {
+		"embeDded",
+		"sTudy",
+		"Good"
+	};
+	int num = 0;
+
+
+	num = find_UpAlpha( str ); // 2차원 배열의 대문자의 개수를 찾아 리턴하는 함수 구현
+
+	printf("num : %d\n", num);
+
+	return 0;
+}
+
+
+
+int find_UpAlpha(char (*pS)[50])
+{ 
+
+}
+
+
+=============================================================================================
+
+#include <stdio.h>
+
+int find_UpAlpha(char (*pS)[50]);
+
+int main(void)
+{
+	char str[3][50] = {
+		"embeDded",
+		"sTuDy",
+		"GoOd"
+	};
+	int num = 0;
+	printf("%d\n", str);
+	printf("%d\n", str+1);
+	printf("==========\n");
+	printf("%c\n", *(str[0]+0) );
+	printf("%c\n", *(str[0]+2) );
+
+	num = find_UpAlpha( str ); // 2차원 배열의 대문자의 개수를 찾아 리턴하는 함수 구현
+	printf("num : %d\n", num);
+	return 0;
+}
+int find_UpAlpha( char (*pS)[50] )
+{
+	int low, col;
+	int num = 0;
+	for (low = 0; low < 3; low++)
+	{
+		col = 0;
+		while (pS[low][col] != '\0')
+		{
+			if (pS[low][col] >= 'A' && pS[low][col] <= 'Z')
+				num++;
+			col++;
+		}
+	}
+
+	return num;
+}
