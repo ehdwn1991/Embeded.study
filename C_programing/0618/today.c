@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-void best_reverse();
 void two_dimention_array();
 int sumarr();
 void clearbuff();
@@ -12,16 +11,7 @@ int main(){
 	int val=8;
 	int *pt=&temp;
 	int *pv=&val;
-	// printf("before swap => temp has : %d val has : %d\n",temp,val );
-	// printf("after  swap => *pt has : %d *pv has : %d\n",*pt,*pv );
-	// printf("%padd_pt:%p add_pv:%p\n",&temp,pt,pv );
-	// printf("%padd_pt:%p add_pv:%p\n",&temp,&pt,&pv );
-	// best_reverse(&pt,&pv);
-	// printf("before swap => temp has : %d val has : %d\n",temp,val );
-	// printf("after  swap => *pt has : %d *pv has : %d\n",*pt,*pv );
-	// printf("add_pt:%p add_pv:%p\n",pt,pv );
-
-	// two_dimention_array();
+	two_dimention_array();
 	variable_test1();
 }
 
@@ -95,15 +85,7 @@ int sumarr(int (*a)[4],int row,int col){
 
 
 
-void best_reverse(int **a,int **b){
-	int *temp=*a;
-	printf("add_pt:%p add_pv:%p\n",*a,*b );
-	printf("add_pt:%p add_pv:%p\n",a,b );
-	printf("add_pt:%p add_pv:%p\n",&a,&b );
-	*a=*b;
-	*b=temp;
 
-}
 
 void clearbuff(){
 	while(getchar()!=10);
