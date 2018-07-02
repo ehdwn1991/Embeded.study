@@ -27,6 +27,7 @@ test*
 t.c
 t1.c
 
+
 *수업자료*
 # Packages #
 
@@ -104,3 +105,4 @@ Thumbs.db
 ./.git/hooks/applypatch-msg.sample
 
 ./C_programing/수업자료/
+./Python/pythonex/
