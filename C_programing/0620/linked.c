@@ -14,6 +14,7 @@ typedef struct Node
 
 
 void Display_Data();
+int find_Node();
 void Delete_Data();
 void Input_Data();
 void clear();
@@ -21,6 +22,7 @@ int main(void)
 {
 	LINK *pStart=NULL;
 	int sel=0;
+	int var=0;
 	// Input_Data(&pStart);
 	// // printf("%d\n",pStart->age );
 	// Display_Data(pStart);
@@ -37,7 +39,9 @@ int main(void)
 			Display_Data(pStart);  // 입력한 모든 정보를 출력
 			break;
 			case 3:
-			// find_del();  // 메모리 해제
+			printf("Find data: ");
+			scanf("%d",&var);
+			printf("\n %dth node has %d\n",find_Node(var,pStart),var);  // 메모리 해제
 			break;
 		}
 		if (sel == 4)
@@ -56,20 +60,28 @@ void Display_Data(LINK *pStr){
 
 
 }
-void Delete_Data(LINK **pD){
-	LINK *temp=*pD;
+// void Delete_Data(LINK **pD,int Nth_data){
+// 	LINK *temp=*pD->next;
+// 	for (int i = 0; i < Nth_data; ++i)
+// 	{
+// 		temp=temp->next;
+// 	}
 
 
-}
+// }
 
-int find_Node(int data,**pD){
-	LINK *temp=*pD;
+int find_Node(int data,LINK *pD){
+	LINK *temp=pD;
 	int count=0;
-	while(temp->next!=NULL){
-		if(temp->age == date){
+
+	while(1){
+		if(temp->age == data){
 			return count;
 		}
-
+		if(temp->next!=NULL){
+			return -1;
+		}
+		printf("count:%d  has: %d\n",count,temp->age );
 		temp=temp->next;
 		count++;
 		}
@@ -100,12 +112,10 @@ void Input_Data(LINK **pD){
 		LINK *head = (LINK*)malloc(sizeof(LINK));
 		*pD=head;
 		head->next=pNew;
-		printf("asd\n");
 	}
 	else{
 
 		while(point->next!=NULL){
-			printf("b\n");
 			point=point->next;
 		}
 		point->next=pNew;

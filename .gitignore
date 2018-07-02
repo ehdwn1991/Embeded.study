@@ -20,6 +20,8 @@ a.out
 
 *.txt
 
+*.pdf
+
 test.c
 test*
 t.c
