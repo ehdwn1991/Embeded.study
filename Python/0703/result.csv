@@ -1,0 +1,1001 @@
+PhraseId,SentenceId,Phrase,Sentiment,Phrase(origin),Sentiment(predict),Difference(Phrase),Difference(Sentence)
+62804,3178,"that for the most part , the film is deadly dull",0,"that for the most part , the film is deadly dull",3,3,2.625
+62808,3178,is deadly dull,0,is deadly dull,2,2,2.625
+62801,3178,"The problem is that for the most part , the film is deadly dull .",0,"The problem is that for the most part , the film is deadly dull .",3,3,2.625
+62802,3178,"is that for the most part , the film is deadly dull .",0,"is that for the most part , the film is deadly dull .",3,3,2.625
+62803,3178,"is that for the most part , the film is deadly dull",0,"is that for the most part , the film is deadly dull",3,3,2.625
+62805,3178,"for the most part , the film is deadly dull",0,"for the most part , the film is deadly dull",3,3,2.625
+62806,3178,", the film is deadly dull",0,", the film is deadly dull",2,2,2.625
+62807,3178,the film is deadly dull,0,the film is deadly dull,2,2,2.625
+92302,4804,horribly,0,horribly,2,2,2.4444444444444446
+92301,4804,horribly depressing,0,horribly depressing,2,2,2.4444444444444446
+92299,4804,horribly depressing and not,0,horribly depressing and not,2,2,2.4444444444444446
+92296,4804,'s horribly depressing and not very well done .,1,'s horribly depressing and not very well done .,4,3,2.4444444444444446
+92298,4804,horribly depressing and not very well done,1,horribly depressing and not very well done,4,3,2.4444444444444446
+92300,4804,horribly depressing and,0,horribly depressing and,2,2,2.4444444444444446
+92297,4804,'s horribly depressing and not very well done,1,'s horribly depressing and not very well done,4,3,2.4444444444444446
+92303,4804,very well done,4,very well done,2,2,2.4444444444444446
+92295,4804,It 's horribly depressing and not very well done .,0,It 's horribly depressing and not very well done .,3,3,2.4444444444444446
+75265,3861,"warm ,",3,"warm ,",2,1,2.3
+75264,3861,"warm , inviting",3,"warm , inviting",2,1,2.3
+75263,3861,"warm , inviting ,",3,"warm , inviting ,",2,1,2.3
+75262,3861,"warm , inviting , and",4,"warm , inviting , and",2,2,2.3
+75261,3861,"warm , inviting , and surprising",4,"warm , inviting , and surprising",2,2,2.3
+75260,3861,"is warm , inviting , and surprising",3,"is warm , inviting , and surprising",2,1,2.3
+75259,3861,"that is warm , inviting , and surprising",4,"that is warm , inviting , and surprising",0,4,2.3
+75258,3861,"comedy that is warm , inviting , and surprising",4,"comedy that is warm , inviting , and surprising",0,4,2.3
+75256,3861,"A comedy that is warm , inviting , and surprising .",4,"A comedy that is warm , inviting , and surprising .",0,4,2.3
+75257,3861,"comedy that is warm , inviting , and surprising .",3,"comedy that is warm , inviting , and surprising .",0,3,2.3
+43307,2092,very best,4,very best,2,2,2.2857142857142856
+43303,2092,one of this year 's very best pictures,4,one of this year 's very best pictures,2,2,2.2857142857142856
+43301,2092,is one of this year 's very best pictures .,4,is one of this year 's very best pictures .,1,3,2.2857142857142856
+43304,2092,of this year 's very best pictures,4,of this year 's very best pictures,2,2,2.2857142857142856
+43305,2092,this year 's very best pictures,4,this year 's very best pictures,2,2,2.2857142857142856
+43306,2092,very best pictures,4,very best pictures,2,2,2.2857142857142856
+43302,2092,is one of this year 's very best pictures,4,is one of this year 's very best pictures,1,3,2.2857142857142856
+89817,4674,"everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation",4,"everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation",0,4,2.263157894736842
+89812,4674,"Scooby Doo is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation .",4,"Scooby Doo is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation .",0,4,2.263157894736842
+89830,4674,deserves recommendation,3,deserves recommendation,2,1,2.263157894736842
+89829,4674,that deserves recommendation,3,that deserves recommendation,2,1,2.263157894736842
+89823,4674,"it will be ,",3,"it will be ,",2,1,2.263157894736842
+89816,4674,"is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation",3,"is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation",0,3,2.263157894736842
+89815,4674,"is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation .",4,"is surely everything its fans are hoping it will be , and in that sense is a movie that deserves recommendation .",0,4,2.263157894736842
+89814,4674,Doo,2,Doo,2,0,2.263157894736842
+89813,4674,Scooby Doo,2,Scooby Doo,2,0,2.263157894736842
+89818,4674,"its fans are hoping it will be , and in that sense is a movie that deserves recommendation",3,"its fans are hoping it will be , and in that sense is a movie that deserves recommendation",0,3,2.263157894736842
+89822,4674,"it will be , and",2,"it will be , and",3,1,2.263157894736842
+89820,4674,"hoping it will be , and in that sense is a movie that deserves recommendation",3,"hoping it will be , and in that sense is a movie that deserves recommendation",0,3,2.263157894736842
+89828,4674,a movie that deserves recommendation,4,a movie that deserves recommendation,2,2,2.263157894736842
+89824,4674,it will be,2,it will be,2,0,2.263157894736842
+89825,4674,in that sense is a movie that deserves recommendation,3,in that sense is a movie that deserves recommendation,0,3,2.263157894736842
+89819,4674,"are hoping it will be , and in that sense is a movie that deserves recommendation",3,"are hoping it will be , and in that sense is a movie that deserves recommendation",0,3,2.263157894736842
+89826,4674,sense is a movie that deserves recommendation,3,sense is a movie that deserves recommendation,0,3,2.263157894736842
+89821,4674,"it will be , and in that sense is a movie that deserves recommendation",3,"it will be , and in that sense is a movie that deserves recommendation",0,3,2.263157894736842
+89827,4674,is a movie that deserves recommendation,4,is a movie that deserves recommendation,0,4,2.263157894736842
+113466,6031,Below is well below expectations .,0,Below is well below expectations .,3,3,2.25
+113467,6031,is well below expectations .,0,is well below expectations .,3,3,2.25
+113469,6031,below expectations,3,below expectations,2,1,2.25
+113468,6031,is well below expectations,1,is well below expectations,3,2,2.25
+30620,1423,The history is fascinating,3,The history is fascinating,2,1,2.142857142857143
+30619,1423,The history is fascinating ;,4,The history is fascinating ;,2,2,2.142857142857143
+30618,1423,The history is fascinating ; the action is dazzling,4,The history is fascinating ; the action is dazzling,1,3,2.142857142857143
+30621,1423,is fascinating,4,is fascinating,2,2,2.142857142857143
+30622,1423,the action is dazzling,4,the action is dazzling,2,2,2.142857142857143
+30623,1423,is dazzling,4,is dazzling,2,2,2.142857142857143
+30617,1423,The history is fascinating ; the action is dazzling .,4,The history is fascinating ; the action is dazzling .,1,3,2.142857142857143
+93811,4893,derivative elements,2,derivative elements,2,0,2.125
+93816,4893,a beauty to behold,4,a beauty to behold,2,2,2.125
+93817,4893,beauty to behold,3,beauty to behold,2,1,2.125
+93812,4893,that is often quite rich and exciting,4,that is often quite rich and exciting,0,4,2.125
+93815,4893,rich and exciting,3,rich and exciting,2,1,2.125
+93808,4893,"derivative elements into something that is often quite rich and exciting ,",3,"derivative elements into something that is often quite rich and exciting ,",3,0,2.125
+93814,4893,quite rich and exciting,4,quite rich and exciting,2,2,2.125
+93807,4893,"derivative elements into something that is often quite rich and exciting , and",4,"derivative elements into something that is often quite rich and exciting , and",0,4,2.125
+93809,4893,derivative elements into something that is often quite rich and exciting,4,derivative elements into something that is often quite rich and exciting,0,4,2.125
+93806,4893,"derivative elements into something that is often quite rich and exciting , and always",3,"derivative elements into something that is often quite rich and exciting , and always",0,3,2.125
+93813,4893,is often quite rich and exciting,4,is often quite rich and exciting,2,2,2.125
+93805,4893,"derivative elements into something that is often quite rich and exciting , and always a beauty to behold",4,"derivative elements into something that is often quite rich and exciting , and always a beauty to behold",0,4,2.125
+93802,4893,"Melds derivative elements into something that is often quite rich and exciting , and always a beauty to behold .",4,"Melds derivative elements into something that is often quite rich and exciting , and always a beauty to behold .",0,4,2.125
+93803,4893,"Melds derivative elements into something that is often quite rich and exciting , and always a beauty to behold",3,"Melds derivative elements into something that is often quite rich and exciting , and always a beauty to behold",0,3,2.125
+93810,4893,derivative elements into something,2,derivative elements into something,2,0,2.125
+93804,4893,Melds,2,Melds,2,0,2.125
+133218,7187,viscerally exciting,4,viscerally exciting,2,2,2.066666666666667
+133227,7187,epic adventure,4,epic adventure,2,2,2.066666666666667
+133226,7187,of epic adventure,3,of epic adventure,2,1,2.066666666666667
+133215,7187,", viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .",4,", viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .",0,4,2.066666666666667
+133216,7187,"viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .",4,"viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .",0,4,2.066666666666667
+133217,7187,"viscerally exciting , and dramatically moving",4,"viscerally exciting , and dramatically moving",2,2,2.066666666666667
+133219,7187,", and dramatically moving",4,", and dramatically moving",2,2,2.066666666666667
+133224,7187,'s the very definition of epic adventure,3,'s the very definition of epic adventure,2,1,2.066666666666667
+133220,7187,dramatically moving,4,dramatically moving,2,2,2.066666666666667
+133221,7187,", it 's the very definition of epic adventure .",3,", it 's the very definition of epic adventure .",2,1,2.066666666666667
+133222,7187,it 's the very definition of epic adventure .,4,it 's the very definition of epic adventure .,2,2,2.066666666666667
+133223,7187,'s the very definition of epic adventure .,3,'s the very definition of epic adventure .,2,1,2.066666666666667
+133213,7187,"Visually breathtaking , viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .",4,"Visually breathtaking , viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .",0,4,2.066666666666667
+133214,7187,Visually breathtaking,3,Visually breathtaking,2,1,2.066666666666667
+133225,7187,the very definition of epic adventure,4,the very definition of epic adventure,2,2,2.066666666666667
+109540,5803,unbearably lame .,0,unbearably lame .,2,2,2.0
+109539,5803,... unbearably lame .,0,... unbearably lame .,2,2,2.0
+103572,5462,Adaptation is simply brilliant .,4,Adaptation is simply brilliant .,2,2,2.0
+103573,5462,is simply brilliant .,4,is simply brilliant .,2,2,2.0
+103574,5462,is simply brilliant,4,is simply brilliant,2,2,2.0
+139462,7565,Just plain bad .,0,Just plain bad .,2,2,2.0
+155176,8495,Disgusting .,0,Disgusting .,2,2,2.0
+69923,3557,This thing is just garbage .,0,This thing is just garbage .,2,2,2.0
+110552,5859,"An uplifting , near-masterpiece",4,"An uplifting , near-masterpiece",2,2,2.0
+110553,5859,near-masterpiece,4,near-masterpiece,2,2,2.0
+71848,3666,'s nowhere near as good as the original,1,'s nowhere near as good as the original,3,2,2.0
+71847,3666,'s nowhere near as good as the original .,1,'s nowhere near as good as the original .,3,2,2.0
+71846,3666,it 's nowhere near as good as the original .,1,it 's nowhere near as good as the original .,3,2,2.0
+71845,3666,", it 's nowhere near as good as the original .",1,", it 's nowhere near as good as the original .",3,2,2.0
+71844,3666,bad of a movie,1,bad of a movie,0,1,2.0
+71843,3666,all that bad of a movie,2,all that bad of a movie,0,2,2.0
+71842,3666,not all that bad of a movie,3,not all that bad of a movie,0,3,2.0
+71841,3666,While not all that bad of a movie,2,While not all that bad of a movie,0,2,2.0
+71840,3666,"While not all that bad of a movie , it 's nowhere near as good as the original .",1,"While not all that bad of a movie , it 's nowhere near as good as the original .",3,2,2.0
+49009,2392,Terrible .,0,Terrible .,2,2,2.0
+139249,7548,Surprisingly powerful and universal .,4,Surprisingly powerful and universal .,2,2,2.0
+139250,7548,Surprisingly powerful and universal,4,Surprisingly powerful and universal,2,2,2.0
+69924,3557,is just garbage .,0,is just garbage .,2,2,2.0
+86068,4455,An exhilarating experience .,4,An exhilarating experience .,2,2,2.0
+109541,5803,lame .,0,lame .,2,2,2.0
+69925,3557,is just garbage,0,is just garbage,2,2,2.0
+145829,7927,Really quite funny,4,Really quite funny,2,2,2.0
+66975,3400,I loved this film .,4,I loved this film .,2,2,2.0
+118481,6330,Huppert ... is magnificent,4,Huppert ... is magnificent,2,2,2.0
+18421,807,Execrable .,0,Execrable .,2,2,2.0
+109215,5783,This is just lazy writing .,0,This is just lazy writing .,3,3,2.0
+118477,6330,"are both superb , while Huppert ... is magnificent",4,"are both superb , while Huppert ... is magnificent",2,2,2.0
+118478,6330,"are both superb ,",4,"are both superb ,",2,2,2.0
+118479,6330,are both superb,4,are both superb,2,2,2.0
+118480,6330,while Huppert ... is magnificent,4,while Huppert ... is magnificent,2,2,2.0
+118482,6330,... is magnificent,4,... is magnificent,2,2,2.0
+109216,5783,is just lazy writing .,0,is just lazy writing .,2,2,2.0
+118483,6330,is magnificent,4,is magnificent,2,2,2.0
+116355,6204,It 's a masterpiece .,4,It 's a masterpiece .,2,2,2.0
+116356,6204,'s a masterpiece .,4,'s a masterpiece .,2,2,2.0
+116357,6204,'s a masterpiece,4,'s a masterpiece,2,2,2.0
+124454,6686,Horrible .,0,Horrible .,2,2,2.0
+137444,7436,lame comedy .,0,lame comedy .,2,2,2.0
+18422,807,Execrable,0,Execrable,2,2,2.0
+24676,1124,The film is one of the year 's best .,4,The film is one of the year 's best .,1,3,2.0
+24677,1124,is one of the year 's best .,4,is one of the year 's best .,2,2,2.0
+24678,1124,is one of the year 's best,4,is one of the year 's best,2,2,2.0
+142354,7723,... a true delight .,4,... a true delight .,2,2,2.0
+142355,7723,a true delight .,4,a true delight .,2,2,2.0
+92056,4791,Idiotic and ugly .,0,Idiotic and ugly .,2,2,2.0
+92057,4791,Idiotic and ugly,0,Idiotic and ugly,2,2,2.0
+35728,1684,A compelling film .,4,A compelling film .,2,2,2.0
+35729,1684,compelling film .,4,compelling film .,2,2,2.0
+139699,7579,Refreshing .,4,Refreshing .,2,2,2.0
+24679,1124,one of the year 's best,4,one of the year 's best,2,2,2.0
+24680,1124,of the year 's best,3,of the year 's best,2,1,2.0
+24681,1124,the year 's best,4,the year 's best,2,2,2.0
+35855,1692,The worst film of the year .,0,The worst film of the year .,2,2,2.0
+35856,1692,The worst film of the year,0,The worst film of the year,2,2,2.0
+92058,4791,Idiotic and,0,Idiotic and,2,2,2.0
+137443,7436,A lame comedy .,0,A lame comedy .,2,2,2.0
+109217,5783,is just lazy writing,0,is just lazy writing,2,2,2.0
+66976,3400,loved this film .,4,loved this film .,2,2,2.0
+118476,6330,"are both superb , while Huppert ... is magnificent .",4,"are both superb , while Huppert ... is magnificent .",2,2,2.0
+47035,2293,Daring and beautifully made .,4,Daring and beautifully made .,2,2,2.0
+130817,7049,One-of-a-kind near-masterpiece .,4,One-of-a-kind near-masterpiece .,2,2,2.0
+12384,530,best films,4,best films,2,2,2.0
+77869,4005,A thought-provoking picture .,4,A thought-provoking picture .,2,2,2.0
+77870,4005,thought-provoking picture .,4,thought-provoking picture .,2,2,2.0
+145828,7927,Really quite funny .,4,Really quite funny .,2,2,2.0
+111204,5895,This is one of the year 's best films .,4,This is one of the year 's best films .,2,2,2.0
+109218,5783,is just lazy,0,is just lazy,2,2,2.0
+111205,5895,is one of the year 's best films .,4,is one of the year 's best films .,2,2,2.0
+104440,5511,stupid and annoying,0,stupid and annoying,2,2,2.0
+104439,5511,Very stupid and annoying,0,Very stupid and annoying,2,2,2.0
+104438,5511,Very stupid and annoying .,0,Very stupid and annoying .,2,2,2.0
+139251,7548,powerful and universal,4,powerful and universal,2,2,2.0
+66977,3400,loved this film,4,loved this film,2,2,2.0
+47036,2293,Daring and beautifully made,4,Daring and beautifully made,2,2,2.0
+47037,2293,beautifully made,4,beautifully made,2,2,2.0
+130818,7049,near-masterpiece .,4,near-masterpiece .,2,2,2.0
+139463,7565,plain bad .,0,plain bad .,2,2,2.0
+30056,1395,unwatchable,0,unwatchable,2,2,2.0
+30055,1395,virtually unwatchable,0,virtually unwatchable,2,2,2.0
+104540,5518,Crummy .,0,Crummy .,2,2,2.0
+111013,5882,A gem of a movie,4,A gem of a movie,2,2,2.0
+111012,5882,A gem of a movie .,4,A gem of a movie .,2,2,2.0
+30054,1395,is virtually unwatchable,0,is virtually unwatchable,2,2,2.0
+24514,1115,Truly terrible .,0,Truly terrible .,2,2,2.0
+24515,1115,Truly terrible,0,Truly terrible,2,2,2.0
+30053,1395,is virtually unwatchable .,0,is virtually unwatchable .,2,2,2.0
+30052,1395,This thing is virtually unwatchable .,0,This thing is virtually unwatchable .,2,2,2.0
+109285,5787,riveting documentary .,4,riveting documentary .,2,2,2.0
+109284,5787,A riveting documentary .,4,A riveting documentary .,2,2,2.0
+109219,5783,just lazy,1,just lazy,2,1,2.0
+110551,5859,"An uplifting , near-masterpiece .",4,"An uplifting , near-masterpiece .",2,2,2.0
+150808,8219,full of grace,4,full of grace,2,2,2.0
+79349,4087,I can not recommend it .,0,I ca n't recommend it .,2,2,2.0
+120086,6423,wise and powerful tale,4,wise and powerful tale,2,2,2.0
+44617,2162,"A beautiful , entertaining two hours",4,"A beautiful , entertaining two hours",2,2,2.0
+79350,4087,can not recommend it .,0,ca n't recommend it .,2,2,2.0
+44619,2162,entertaining two hours,4,entertaining two hours,2,2,2.0
+82934,4282,An infuriating film .,0,An infuriating film .,2,2,2.0
+82935,4282,infuriating film .,0,infuriating film .,2,2,2.0
+120081,6423,"It 's a wise and powerful tale of race and culture forcefully told , with superb performances throughout .",4,"It 's a wise and powerful tale of race and culture forcefully told , with superb performances throughout .",0,4,2.0
+120082,6423,"'s a wise and powerful tale of race and culture forcefully told , with superb performances throughout .",3,"'s a wise and powerful tale of race and culture forcefully told , with superb performances throughout .",0,3,2.0
+120083,6423,"'s a wise and powerful tale of race and culture forcefully told , with superb performances throughout",4,"'s a wise and powerful tale of race and culture forcefully told , with superb performances throughout",0,4,2.0
+120084,6423,"a wise and powerful tale of race and culture forcefully told , with superb performances throughout",4,"a wise and powerful tale of race and culture forcefully told , with superb performances throughout",0,4,2.0
+120085,6423,a wise and powerful tale,4,a wise and powerful tale,2,2,2.0
+120087,6423,wise and powerful,3,wise and powerful,2,1,2.0
+82704,4270,biggest disappointments,0,biggest disappointments,2,2,2.0
+120088,6423,"of race and culture forcefully told , with superb performances throughout",3,"of race and culture forcefully told , with superb performances throughout",2,1,2.0
+120089,6423,"race and culture forcefully told , with superb performances throughout",4,"race and culture forcefully told , with superb performances throughout",2,2,2.0
+120090,6423,race and culture,2,race and culture,2,0,2.0
+120091,6423,"forcefully told , with superb performances throughout",4,"forcefully told , with superb performances throughout",2,2,2.0
+120092,6423,"told , with superb performances throughout",4,"told , with superb performances throughout",2,2,2.0
+120093,6423,"told ,",2,"told ,",2,0,2.0
+120094,6423,with superb performances throughout,3,with superb performances throughout,2,1,2.0
+120095,6423,superb performances throughout,4,superb performances throughout,2,2,2.0
+120096,6423,superb performances,4,superb performances,2,2,2.0
+94606,4938,Insanely hilarious,4,Insanely hilarious,2,2,2.0
+44616,2162,"A beautiful , entertaining two hours .",4,"A beautiful , entertaining two hours .",2,2,2.0
+138601,7508,Amazingly lame .,0,Amazingly lame .,2,2,2.0
+114979,6123,What an embarrassment .,0,What an embarrassment .,2,2,2.0
+82697,4270,This is one of the biggest disappointments of the year .,0,This is one of the biggest disappointments of the year .,3,3,2.0
+129731,6980,Highly engaging .,4,Highly engaging .,2,2,2.0
+154774,8466,` perfection,4,` perfection,2,2,2.0
+154773,8466,it ` perfection,4,it ` perfection,2,2,2.0
+7973,325,See it .,4,See it .,2,2,2.0
+113298,6020,real snooze .,0,real snooze .,2,2,2.0
+113297,6020,A real snooze .,0,A real snooze .,2,2,2.0
+154772,8466,Consider it ` perfection,4,Consider it ` perfection,2,2,2.0
+154771,8466,Consider it ` perfection .,4,Consider it ` perfection .,2,2,2.0
+51899,2560,captivating .,4,captivating .,2,2,2.0
+51898,2560,Visually captivating .,4,Visually captivating .,2,2,2.0
+154770,8466,Consider it ` perfection . ',4,Consider it ` perfection . ',2,2,2.0
+86622,4486,delightfully rendered,4,delightfully rendered,2,2,2.0
+82698,4270,is one of the biggest disappointments of the year .,0,is one of the biggest disappointments of the year .,3,3,2.0
+82699,4270,is one of the biggest disappointments of the year,0,is one of the biggest disappointments of the year,3,3,2.0
+82700,4270,one of the biggest disappointments of the year,1,one of the biggest disappointments of the year,2,1,2.0
+82701,4270,of the biggest disappointments of the year,0,of the biggest disappointments of the year,2,2,2.0
+82702,4270,the biggest disappointments of the year,1,the biggest disappointments of the year,2,1,2.0
+82703,4270,the biggest disappointments,1,the biggest disappointments,2,1,2.0
+117686,6281,Thumbs down .,0,Thumbs down .,2,2,2.0
+117687,6281,Thumbs down,0,Thumbs down,2,2,2.0
+87521,4541,Thoroughly awful,0,Thoroughly awful,2,2,2.0
+87520,4541,Thoroughly awful .,0,Thoroughly awful .,2,2,2.0
+94605,4938,Insanely hilarious !,4,Insanely hilarious !,2,2,2.0
+44618,2162,"beautiful , entertaining two hours",4,"beautiful , entertaining two hours",2,2,2.0
+107490,5679,Fantastic !,4,Fantastic !,2,2,2.0
+150801,8219,"This is a movie full of grace and , ultimately , hope .",4,"This is a movie full of grace and , ultimately , hope .",0,4,2.0
+12383,530,the best films,3,the best films,2,1,2.0
+150802,8219,"This is a movie full of grace and , ultimately , hope",3,"This is a movie full of grace and , ultimately , hope",0,3,2.0
+150803,8219,"This is a movie full of grace and ,",4,"This is a movie full of grace and ,",0,4,2.0
+150804,8219,This is a movie full of grace and,4,This is a movie full of grace and,0,4,2.0
+65222,3301,... bibbidy-bobbidi-bland .,0,... bibbidy-bobbidi-bland .,2,2,2.0
+12382,530,the best films of the year,4,the best films of the year,2,2,2.0
+12381,530,of the best films of the year,4,of the best films of the year,2,2,2.0
+150805,8219,This is a movie full of grace,4,This is a movie full of grace,3,1,2.0
+150811,8219,", hope",2,", hope",2,0,2.0
+126103,6774,Stale and,0,Stale and,2,2,2.0
+150810,8219,"ultimately , hope",2,"ultimately , hope",2,0,2.0
+65223,3301,bibbidy-bobbidi-bland .,0,bibbidy-bobbidi-bland .,2,2,2.0
+65224,3301,bibbidy-bobbidi-bland,0,bibbidy-bobbidi-bland,2,2,2.0
+65379,3310,Extremely bad .,0,Extremely bad .,2,2,2.0
+65380,3310,Extremely bad,0,Extremely bad,2,2,2.0
+12380,530,powerful sequel,4,powerful sequel,2,2,2.0
+150809,8219,of grace,3,of grace,2,1,2.0
+150807,8219,a movie full of grace,4,a movie full of grace,2,2,2.0
+126104,6775,Moving and vibrant .,4,Moving and vibrant .,2,2,2.0
+12379,530,a powerful sequel,4,a powerful sequel,2,2,2.0
+96083,5019,A major waste ... generic,0,A major waste ... generic,2,2,2.0
+96082,5019,A major waste ... generic .,0,A major waste ... generic .,2,2,2.0
+126105,6775,Moving and vibrant,4,Moving and vibrant,2,2,2.0
+144269,7831,gripping drama .,4,gripping drama .,2,2,2.0
+144268,7831,A gripping drama .,4,A gripping drama .,2,2,2.0
+25762,1178,Amazing !,4,Amazing !,2,2,2.0
+96086,5019,major waste,0,major waste,2,2,2.0
+96085,5019,A major waste,0,A major waste,2,2,2.0
+96084,5019,A major waste ...,0,A major waste ...,2,2,2.0
+150806,8219,is a movie full of grace,3,is a movie full of grace,2,1,2.0
+114980,6123,an embarrassment .,0,an embarrassment .,2,2,2.0
+114981,6123,embarrassment .,0,embarrassment .,2,2,2.0
+12374,530,... a powerful sequel and one of the best films of the year .,4,... a powerful sequel and one of the best films of the year .,1,3,2.0
+12375,530,a powerful sequel and one of the best films of the year .,4,a powerful sequel and one of the best films of the year .,1,3,2.0
+12376,530,a powerful sequel and one of the best films of the year,4,a powerful sequel and one of the best films of the year,1,3,2.0
+12377,530,a powerful sequel and one,3,a powerful sequel and one,2,1,2.0
+12378,530,a powerful sequel and,3,a powerful sequel and,2,1,2.0
+15817,678,in a while,2,in a while,2,0,1.9545454545454546
+15818,678,a while,2,a while,2,0,1.9545454545454546
+15814,678,I 've had in a while,2,I 've had in a while,2,0,1.9545454545454546
+15813,678,at the movies,2,at the movies,2,0,1.9545454545454546
+15816,678,had in a while,2,had in a while,2,0,1.9545454545454546
+15815,678,'ve had in a while,2,'ve had in a while,2,0,1.9545454545454546
+15801,678,makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,4,makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,1,3,1.9545454545454546
+15802,678,for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,4,for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,1,3,1.9545454545454546
+15806,678,the most purely enjoyable and satisfying evenings at the movies,4,the most purely enjoyable and satisfying evenings at the movies,1,3,1.9545454545454546
+15807,678,the most purely enjoyable and satisfying evenings,4,the most purely enjoyable and satisfying evenings,1,3,1.9545454545454546
+15808,678,most purely enjoyable and satisfying evenings,4,most purely enjoyable and satisfying evenings,1,3,1.9545454545454546
+15809,678,most purely enjoyable and satisfying,4,most purely enjoyable and satisfying,1,3,1.9545454545454546
+15810,678,most purely enjoyable and,3,most purely enjoyable and,1,2,1.9545454545454546
+15805,678,the most purely enjoyable and satisfying evenings at the movies I 've had in a while,4,the most purely enjoyable and satisfying evenings at the movies I 've had in a while,1,3,1.9545454545454546
+15804,678,of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,4,of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,1,3,1.9545454545454546
+15803,678,one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,4,one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while,1,3,1.9545454545454546
+15812,678,evenings,2,evenings,2,0,1.9545454545454546
+15800,678,makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,4,makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,1,3,1.9545454545454546
+15799,678,it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,4,it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,1,3,1.9545454545454546
+15798,678,but it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,4,but it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,1,3,1.9545454545454546
+15797,678,-- but it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,4,-- but it makes for one of the most purely enjoyable and satisfying evenings at the movies I 've had in a while .,1,3,1.9545454545454546
+15811,678,most purely enjoyable,4,most purely enjoyable,2,2,1.9545454545454546
+116542,6214,hard to like a film so cold and dead,1,hard to like a film so cold and dead,4,3,1.9411764705882353
+116539,6214,some sense,2,some sense,2,0,1.9411764705882353
+116540,6214,it 's hard to like a film so cold and dead,0,it 's hard to like a film so cold and dead,4,4,1.9411764705882353
+116541,6214,'s hard to like a film so cold and dead,0,'s hard to like a film so cold and dead,4,4,1.9411764705882353
+116543,6214,to like a film so cold and dead,2,to like a film so cold and dead,4,2,1.9411764705882353
+116544,6214,like a film so cold and dead,1,like a film so cold and dead,4,3,1.9411764705882353
+116538,6214,in some sense,2,in some sense,2,0,1.9411764705882353
+116532,6214,"Trouble Every Day is a success in some sense , but it 's hard to like a film so cold and dead",0,"Trouble Every Day is a success in some sense , but it 's hard to like a film so cold and dead",4,4,1.9411764705882353
+116531,6214,"Trouble Every Day is a success in some sense , but it 's hard to like a film so cold and dead .",1,"Trouble Every Day is a success in some sense , but it 's hard to like a film so cold and dead .",4,3,1.9411764705882353
+116537,6214,a success in some sense,2,a success in some sense,2,0,1.9411764705882353
+116545,6214,a film so cold and dead,0,a film so cold and dead,4,4,1.9411764705882353
+116546,6214,so cold and dead,1,so cold and dead,2,1,1.9411764705882353
+116547,6214,cold and dead,0,cold and dead,2,2,1.9411764705882353
+116533,6214,"Trouble Every Day is a success in some sense , but",2,"Trouble Every Day is a success in some sense , but",2,0,1.9411764705882353
+116534,6214,"Trouble Every Day is a success in some sense ,",3,"Trouble Every Day is a success in some sense ,",2,1,1.9411764705882353
+116536,6214,is a success in some sense,3,is a success in some sense,2,1,1.9411764705882353
+116535,6214,Trouble Every Day is a success in some sense,3,Trouble Every Day is a success in some sense,2,1,1.9411764705882353
+153852,8404,"the movie 's contrived , lame screenplay",0,"the movie 's contrived , lame screenplay",2,2,1.9285714285714286
+153854,8404,", lame screenplay",1,", lame screenplay",2,1,1.9285714285714286
+153853,8404,"contrived , lame screenplay",1,"contrived , lame screenplay",2,1,1.9285714285714286
+153848,8404,"compared to the movie 's contrived , lame screenplay and listless direction",1,"compared to the movie 's contrived , lame screenplay and listless direction",3,2,1.9285714285714286
+153851,8404,"the movie 's contrived , lame screenplay and",0,"the movie 's contrived , lame screenplay and",2,2,1.9285714285714286
+153850,8404,"the movie 's contrived , lame screenplay and listless direction",0,"the movie 's contrived , lame screenplay and listless direction",2,2,1.9285714285714286
+153847,8404,"nothing compared to the movie 's contrived , lame screenplay and listless direction",0,"nothing compared to the movie 's contrived , lame screenplay and listless direction",3,3,1.9285714285714286
+153843,8404,"Britney Spears ' phoniness is nothing compared to the movie 's contrived , lame screenplay and listless direction .",1,"Britney Spears ' phoniness is nothing compared to the movie 's contrived , lame screenplay and listless direction .",3,2,1.9285714285714286
+153844,8404,Britney Spears ' phoniness,1,Britney Spears ' phoniness,2,1,1.9285714285714286
+153845,8404,"is nothing compared to the movie 's contrived , lame screenplay and listless direction .",0,"is nothing compared to the movie 's contrived , lame screenplay and listless direction .",3,3,1.9285714285714286
+153846,8404,"is nothing compared to the movie 's contrived , lame screenplay and listless direction",0,"is nothing compared to the movie 's contrived , lame screenplay and listless direction",3,3,1.9285714285714286
+153849,8404,"to the movie 's contrived , lame screenplay and listless direction",0,"to the movie 's contrived , lame screenplay and listless direction",3,3,1.9285714285714286
+94298,4922,Not even Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .,0,Not even Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .,3,3,1.9285714285714286
+94311,4922,in a movie,2,in a movie,2,0,1.9285714285714286
+94305,4922,dreamed up,3,dreamed up,2,1,1.9285714285714286
+94310,4922,sickening product placement,1,sickening product placement,2,1,1.9285714285714286
+94309,4922,and sickening product placement,1,and sickening product placement,2,1,1.9285714285714286
+94308,4922,blatant and sickening product placement,0,blatant and sickening product placement,2,2,1.9285714285714286
+153856,8404,listless direction,1,listless direction,2,1,1.9285714285714286
+153855,8404,lame screenplay,1,lame screenplay,2,1,1.9285714285714286
+94307,4922,such blatant and sickening product placement,1,such blatant and sickening product placement,2,1,1.9285714285714286
+94306,4922,dreamed,2,dreamed,2,0,1.9285714285714286
+94304,4922,dreamed up such blatant and sickening product placement,1,dreamed up such blatant and sickening product placement,2,1,1.9285714285714286
+94299,4922,even Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .,0,even Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .,4,4,1.9285714285714286
+94303,4922,dreamed up such blatant and sickening product placement in a movie,1,dreamed up such blatant and sickening product placement in a movie,4,3,1.9285714285714286
+94302,4922,has dreamed up such blatant and sickening product placement in a movie,0,has dreamed up such blatant and sickening product placement in a movie,4,4,1.9285714285714286
+94301,4922,has dreamed up such blatant and sickening product placement in a movie .,1,has dreamed up such blatant and sickening product placement in a movie .,4,3,1.9285714285714286
+94300,4922,Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .,1,Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .,4,3,1.9285714285714286
+127265,6844,is sordid and disgusting,0,is sordid and disgusting,3,3,1.9
+127267,6844,sordid and,1,sordid and,2,1,1.9
+127266,6844,sordid and disgusting,0,sordid and disgusting,2,2,1.9
+127802,6873,"thoughtful , emotional movie experience",4,"thoughtful , emotional movie experience",2,2,1.9
+127264,6844,is sordid and disgusting .,0,is sordid and disgusting .,3,3,1.9
+127801,6873,"a thoughtful , emotional movie experience",4,"a thoughtful , emotional movie experience",2,2,1.9
+127262,6844,", Hollywood is sordid and disgusting .",0,", Hollywood is sordid and disgusting .",3,3,1.9
+127261,6844,glitz,3,glitz,2,1,1.9
+127260,6844,the glitz,2,the glitz,2,0,1.9
+127259,6844,Behind the glitz,2,Behind the glitz,2,0,1.9
+127258,6844,"Behind the glitz , Hollywood is sordid and disgusting .",0,"Behind the glitz , Hollywood is sordid and disgusting .",3,3,1.9
+127794,6873,"and your reward will be a thoughtful , emotional movie experience .",4,"and your reward will be a thoughtful , emotional movie experience .",0,4,1.9
+127795,6873,"your reward will be a thoughtful , emotional movie experience .",4,"your reward will be a thoughtful , emotional movie experience .",2,2,1.9
+127796,6873,your reward,3,your reward,2,1,1.9
+127797,6873,reward,3,reward,2,1,1.9
+127798,6873,"will be a thoughtful , emotional movie experience .",4,"will be a thoughtful , emotional movie experience .",2,2,1.9
+127799,6873,"will be a thoughtful , emotional movie experience",4,"will be a thoughtful , emotional movie experience",2,2,1.9
+127800,6873,"be a thoughtful , emotional movie experience",4,"be a thoughtful , emotional movie experience",2,2,1.9
+127263,6844,Hollywood is sordid and disgusting .,0,Hollywood is sordid and disgusting .,3,3,1.9
+127803,6873,"thoughtful , emotional",3,"thoughtful , emotional",2,1,1.9
+62546,3163,does not work,1,does n't work,2,1,1.8888888888888888
+122163,6547,the most disappointing Woody Allen movie,0,the most disappointing Woody Allen movie,2,2,1.8888888888888888
+62545,3163,just does not work,1,just does n't work,2,1,1.8888888888888888
+62538,3163,An awkward hybrid of genres that just does not work .,1,An awkward hybrid of genres that just does n't work .,4,3,1.8888888888888888
+62539,3163,An awkward hybrid of genres that just does not work,1,An awkward hybrid of genres that just does n't work,4,3,1.8888888888888888
+62540,3163,An awkward hybrid,1,An awkward hybrid,2,1,1.8888888888888888
+62541,3163,awkward hybrid,1,awkward hybrid,2,1,1.8888888888888888
+62542,3163,of genres that just does not work,1,of genres that just does n't work,1,0,1.8888888888888888
+122159,6547,Hollywood Ending is the most disappointing Woody Allen movie ever .,0,Hollywood Ending is the most disappointing Woody Allen movie ever .,3,3,1.8888888888888888
+122161,6547,is the most disappointing Woody Allen movie ever,0,is the most disappointing Woody Allen movie ever,3,3,1.8888888888888888
+122162,6547,is the most disappointing Woody Allen movie,0,is the most disappointing Woody Allen movie,3,3,1.8888888888888888
+122160,6547,is the most disappointing Woody Allen movie ever .,0,is the most disappointing Woody Allen movie ever .,3,3,1.8888888888888888
+122164,6547,most disappointing Woody Allen movie,0,most disappointing Woody Allen movie,2,2,1.8888888888888888
+122165,6547,most disappointing,1,most disappointing,2,1,1.8888888888888888
+122166,6547,Woody Allen movie,2,Woody Allen movie,2,0,1.8888888888888888
+122167,6547,Allen movie,2,Allen movie,2,0,1.8888888888888888
+62543,3163,genres that just does not work,0,genres that just does n't work,4,4,1.8888888888888888
+62544,3163,that just does not work,1,that just does n't work,4,3,1.8888888888888888
+125906,6763,"It 's leaden and predictable ,",0,"It 's leaden and predictable ,",2,2,1.875
+47006,2290,stunning animation,4,stunning animation,2,2,1.875
+47001,2290,truly wonderful tale,4,truly wonderful tale,2,2,1.875
+125903,6763,"It 's leaden and predictable , and laughs are lacking .",1,"It 's leaden and predictable , and laughs are lacking .",4,3,1.875
+47002,2290,truly wonderful,4,truly wonderful,2,2,1.875
+47003,2290,combined with stunning animation .,4,combined with stunning animation .,2,2,1.875
+47004,2290,combined with stunning animation,4,combined with stunning animation,2,2,1.875
+47005,2290,with stunning animation,4,with stunning animation,2,2,1.875
+125904,6763,"It 's leaden and predictable , and laughs are lacking",1,"It 's leaden and predictable , and laughs are lacking",4,3,1.875
+152337,8312,time stinker,0,time stinker,2,2,1.875
+125905,6763,"It 's leaden and predictable , and",1,"It 's leaden and predictable , and",4,3,1.875
+152336,8312,big time stinker,0,big time stinker,2,2,1.875
+125907,6763,It 's leaden and predictable,2,It 's leaden and predictable,2,0,1.875
+125910,6763,laughs are lacking,1,laughs are lacking,2,1,1.875
+46999,2290,A truly wonderful tale combined with stunning animation .,4,A truly wonderful tale combined with stunning animation .,2,2,1.875
+125909,6763,leaden and predictable,0,leaden and predictable,2,2,1.875
+125908,6763,'s leaden and predictable,1,'s leaden and predictable,2,1,1.875
+47000,2290,A truly wonderful tale,3,A truly wonderful tale,2,1,1.875
+152335,8312,a big time stinker,1,a big time stinker,2,1,1.875
+116218,6193,"A terrific B movie -- in fact , the best in recent memory",4,"A terrific B movie -- in fact , the best in recent memory",2,2,1.875
+116219,6193,A terrific B movie --,3,A terrific B movie --,2,1,1.875
+116224,6193,the best in recent memory,4,the best in recent memory,2,2,1.875
+116223,6193,"fact , the best in recent memory",4,"fact , the best in recent memory",2,2,1.875
+116222,6193,"in fact , the best in recent memory",4,"in fact , the best in recent memory",2,2,1.875
+116221,6193,terrific B movie,4,terrific B movie,2,2,1.875
+152330,8312,`` The Adventures of Pluto Nash '' is a big time stinker .,0,`` The Adventures of Pluto Nash '' is a big time stinker .,2,2,1.875
+116220,6193,A terrific B movie,4,A terrific B movie,2,2,1.875
+152334,8312,is a big time stinker,0,is a big time stinker,2,2,1.875
+152333,8312,is a big time stinker .,0,is a big time stinker .,2,2,1.875
+152332,8312,'' is a big time stinker .,0,'' is a big time stinker .,2,2,1.875
+152331,8312,The Adventures of Pluto Nash '' is a big time stinker .,0,The Adventures of Pluto Nash '' is a big time stinker .,2,2,1.875
+116217,6193,"A terrific B movie -- in fact , the best in recent memory .",4,"A terrific B movie -- in fact , the best in recent memory .",2,2,1.875
+42808,2066,"A wild , endearing , masterful documentary .",4,"A wild , endearing , masterful documentary .",2,2,1.8571428571428572
+42812,2066,", endearing , masterful",4,", endearing , masterful",2,2,1.8571428571428572
+42809,2066,"A wild , endearing , masterful documentary",4,"A wild , endearing , masterful documentary",2,2,1.8571428571428572
+42810,2066,"wild , endearing , masterful documentary",4,"wild , endearing , masterful documentary",2,2,1.8571428571428572
+42814,2066,", masterful",3,", masterful",2,1,1.8571428571428572
+42813,2066,"endearing , masterful",4,"endearing , masterful",2,2,1.8571428571428572
+42811,2066,"wild , endearing , masterful",4,"wild , endearing , masterful",2,2,1.8571428571428572
+84338,4358,the rare sequel,3,the rare sequel,2,1,1.8461538461538463
+84336,4358,energetic and sweetly,3,energetic and sweetly,2,1,1.8461538461538463
+84337,4358,the rare sequel that 's better than its predecessor,4,the rare sequel that 's better than its predecessor,2,2,1.8461538461538463
+84335,4358,energetic and sweetly whimsical,3,energetic and sweetly whimsical,2,1,1.8461538461538463
+84334,4358,", energetic and sweetly whimsical",4,", energetic and sweetly whimsical",2,2,1.8461538461538463
+84330,4358,"Colorful , energetic and sweetly whimsical ... the rare sequel that 's better than its predecessor .",4,"Colorful , energetic and sweetly whimsical ... the rare sequel that 's better than its predecessor .",0,4,1.8461538461538463
+84333,4358,"Colorful , energetic and sweetly whimsical",4,"Colorful , energetic and sweetly whimsical",2,2,1.8461538461538463
+84332,4358,"Colorful , energetic and sweetly whimsical ...",4,"Colorful , energetic and sweetly whimsical ...",2,2,1.8461538461538463
+84339,4358,rare sequel,3,rare sequel,2,1,1.8461538461538463
+84331,4358,"Colorful , energetic and sweetly whimsical ... the rare sequel that 's better than its predecessor",4,"Colorful , energetic and sweetly whimsical ... the rare sequel that 's better than its predecessor",0,4,1.8461538461538463
+84340,4358,that 's better than its predecessor,3,that 's better than its predecessor,2,1,1.8461538461538463
+84342,4358,better than its predecessor,4,better than its predecessor,2,2,1.8461538461538463
+84341,4358,'s better than its predecessor,3,'s better than its predecessor,2,1,1.8461538461538463
+89668,4666,of the best movies of the year,4,of the best movies of the year,2,2,1.8333333333333333
+33722,1585,engrossing and infectiously enthusiastic,4,engrossing and infectiously enthusiastic,2,2,1.8333333333333333
+33721,1585,engrossing and infectiously enthusiastic documentary,4,engrossing and infectiously enthusiastic documentary,2,2,1.8333333333333333
+65169,3297,Keener is marvelous,4,Keener is marvelous,2,2,1.8333333333333333
+65170,3297,Keener,2,Keener,2,0,1.8333333333333333
+33720,1585,An engrossing and infectiously enthusiastic documentary,4,An engrossing and infectiously enthusiastic documentary,2,2,1.8333333333333333
+65171,3297,is marvelous,4,is marvelous,2,2,1.8333333333333333
+89666,4666,One of the best movies of the year .,4,One of the best movies of the year .,2,2,1.8333333333333333
+89667,4666,One of the best movies of the year,4,One of the best movies of the year,2,2,1.8333333333333333
+33719,1585,An engrossing and infectiously enthusiastic documentary .,4,An engrossing and infectiously enthusiastic documentary .,2,2,1.8333333333333333
+105314,5560,pretty stupid,0,pretty stupid,2,2,1.8333333333333333
+105313,5560,'s pretty stupid,0,'s pretty stupid,2,2,1.8333333333333333
+105312,5560,'s pretty stupid .,0,'s pretty stupid .,2,2,1.8333333333333333
+89669,4666,the best movies of the year,4,the best movies of the year,2,2,1.8333333333333333
+105311,5560,it 's pretty stupid .,0,it 's pretty stupid .,2,2,1.8333333333333333
+105310,5560,", it 's pretty stupid .",0,", it 's pretty stupid .",2,2,1.8333333333333333
+105309,5560,"Frankly , it 's pretty stupid .",1,"Frankly , it 's pretty stupid .",2,1,1.8333333333333333
+141463,7675,is a disaster,1,is a disaster,2,1,1.8333333333333333
+141462,7675,is a disaster .,0,is a disaster .,2,2,1.8333333333333333
+141461,7675,the movie is a disaster .,0,the movie is a disaster .,2,2,1.8333333333333333
+141460,7675,", the movie is a disaster .",0,", the movie is a disaster .",2,2,1.8333333333333333
+141459,7675,"Stylistically , the movie is a disaster .",0,"Stylistically , the movie is a disaster .",2,2,1.8333333333333333
+141458,7675,"... Stylistically , the movie is a disaster .",0,"... Stylistically , the movie is a disaster .",2,2,1.8333333333333333
+65168,3297,been in years,2,been in years,2,0,1.8333333333333333
+89671,4666,best movies,3,best movies,2,1,1.8333333333333333
+89670,4666,the best movies,4,the best movies,2,2,1.8333333333333333
+19910,882,brilliant movie,4,brilliant movie,2,2,1.8333333333333333
+106561,5627,'s also not very good,0,'s also not very good,3,3,1.8333333333333333
+65167,3297,'s been in years,2,'s been in years,2,0,1.8333333333333333
+59968,3025,baaaaaaaaad,0,baaaaaaaaad,2,2,1.8333333333333333
+19909,882,a brilliant movie,4,a brilliant movie,2,2,1.8333333333333333
+19908,882,is a brilliant movie,4,is a brilliant movie,2,2,1.8333333333333333
+19907,882,is a brilliant movie .,4,is a brilliant movie .,2,2,1.8333333333333333
+19906,882,Sometimes is a brilliant movie .,3,Sometimes is a brilliant movie .,2,1,1.8333333333333333
+19905,882,Charlotte Sometimes is a brilliant movie .,4,Charlotte Sometimes is a brilliant movie .,2,2,1.8333333333333333
+59963,3025,This is one baaaaaaaaad movie .,0,This is one baaaaaaaaad movie .,1,1,1.8333333333333333
+59964,3025,is one baaaaaaaaad movie .,0,is one baaaaaaaaad movie .,2,2,1.8333333333333333
+65166,3297,he 's been in years,1,he 's been in years,2,1,1.8333333333333333
+59965,3025,is one baaaaaaaaad movie,0,is one baaaaaaaaad movie,2,2,1.8333333333333333
+59966,3025,one baaaaaaaaad movie,0,one baaaaaaaaad movie,2,2,1.8333333333333333
+59967,3025,baaaaaaaaad movie,0,baaaaaaaaad movie,2,2,1.8333333333333333
+33724,1585,infectiously,3,infectiously,2,1,1.8333333333333333
+65160,3297,Pacino is the best he 's been in years and Keener is marvelous .,4,Pacino is the best he 's been in years and Keener is marvelous .,0,4,1.8333333333333333
+65165,3297,the best he 's been in years,4,the best he 's been in years,2,2,1.8333333333333333
+106562,5627,'s also not,2,'s also not,2,0,1.8333333333333333
+33723,1585,infectiously enthusiastic,4,infectiously enthusiastic,2,2,1.8333333333333333
+106560,5627,'s also not very good .,1,'s also not very good .,3,2,1.8333333333333333
+65161,3297,Pacino is the best he 's been in years and Keener is marvelous,3,Pacino is the best he 's been in years and Keener is marvelous,0,3,1.8333333333333333
+65162,3297,Pacino is the best he 's been in years and,4,Pacino is the best he 's been in years and,0,4,1.8333333333333333
+65163,3297,Pacino is the best he 's been in years,4,Pacino is the best he 's been in years,2,2,1.8333333333333333
+65164,3297,is the best he 's been in years,4,is the best he 's been in years,2,2,1.8333333333333333
+106559,5627,it 's also not very good .,1,it 's also not very good .,3,2,1.8333333333333333
+106557,5627,"Unfortunately , it 's also not very good .",0,"Unfortunately , it 's also not very good .",3,3,1.8333333333333333
+106558,5627,", it 's also not very good .",2,", it 's also not very good .",3,1,1.8333333333333333
+97661,5112,stuck pig,2,stuck pig,2,0,1.8125
+97672,5112,pallid horror,1,pallid horror,2,1,1.8125
+97659,5112,This stuck pig of a movie,0,This stuck pig of a movie,2,2,1.8125
+97673,5112,pallid,1,pallid,2,1,1.8125
+97665,5112,flails,1,flails,2,1,1.8125
+97658,5112,This stuck pig of a movie flails limply between bizarre comedy and pallid horror .,0,This stuck pig of a movie flails limply between bizarre comedy and pallid horror .,3,3,1.8125
+97660,5112,This stuck pig,1,This stuck pig,2,1,1.8125
+97664,5112,flails limply between bizarre comedy and pallid horror,0,flails limply between bizarre comedy and pallid horror,4,4,1.8125
+97662,5112,pig,1,pig,2,1,1.8125
+97663,5112,flails limply between bizarre comedy and pallid horror .,0,flails limply between bizarre comedy and pallid horror .,4,4,1.8125
+97670,5112,bizarre comedy and,2,bizarre comedy and,4,2,1.8125
+97669,5112,bizarre comedy and pallid horror,2,bizarre comedy and pallid horror,4,2,1.8125
+97668,5112,between bizarre comedy and pallid horror,2,between bizarre comedy and pallid horror,4,2,1.8125
+97667,5112,limply,1,limply,2,1,1.8125
+97666,5112,limply between bizarre comedy and pallid horror,0,limply between bizarre comedy and pallid horror,4,4,1.8125
+97671,5112,bizarre comedy,2,bizarre comedy,2,0,1.8125
+146137,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters",0,4,1.8076923076923077
+146132,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply of effective sight gags",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply of effective sight gags",0,4,1.8076923076923077
+146136,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters ,",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters ,",0,4,1.8076923076923077
+146135,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue",0,4,1.8076923076923077
+146134,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and",0,4,1.8076923076923077
+146133,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply",0,4,1.8076923076923077
+146131,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply of effective sight gags .",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply of effective sight gags .",0,4,1.8076923076923077
+146130,7947,"... flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply of effective sight gags .",3,"... flat-out amusing , sometimes endearing and often fabulous , with a solid cast , noteworthy characters , delicious dialogue and a wide supply of effective sight gags .",0,3,1.8076923076923077
+146139,7947,"flat-out amusing , sometimes endearing and often fabulous",4,"flat-out amusing , sometimes endearing and often fabulous",2,2,1.8076923076923077
+146138,7947,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast ,",4,"flat-out amusing , sometimes endearing and often fabulous , with a solid cast ,",2,2,1.8076923076923077
+146145,7947,often fabulous,2,often fabulous,2,0,1.8076923076923077
+146140,7947,"flat-out amusing , sometimes endearing and",3,"flat-out amusing , sometimes endearing and",2,1,1.8076923076923077
+146141,7947,"flat-out amusing , sometimes endearing",3,"flat-out amusing , sometimes endearing",2,1,1.8076923076923077
+146142,7947,"flat-out amusing ,",4,"flat-out amusing ,",2,2,1.8076923076923077
+146143,7947,flat-out amusing,4,flat-out amusing,2,2,1.8076923076923077
+146144,7947,sometimes endearing,3,sometimes endearing,2,1,1.8076923076923077
+146146,7947,", with a solid cast ,",3,", with a solid cast ,",2,1,1.8076923076923077
+146147,7947,"with a solid cast ,",3,"with a solid cast ,",2,1,1.8076923076923077
+146148,7947,with a solid cast,2,with a solid cast,2,0,1.8076923076923077
+146149,7947,noteworthy characters,3,noteworthy characters,2,1,1.8076923076923077
+146150,7947,noteworthy,3,noteworthy,2,1,1.8076923076923077
+146152,7947,a wide supply,2,a wide supply,2,0,1.8076923076923077
+146154,7947,of effective sight gags,2,of effective sight gags,2,0,1.8076923076923077
+146155,7947,effective sight gags,2,effective sight gags,2,0,1.8076923076923077
+146153,7947,wide supply,2,wide supply,2,0,1.8076923076923077
+146151,7947,delicious dialogue,3,delicious dialogue,2,1,1.8076923076923077
+144840,7863,a mess from start,2,a mess from start,2,0,1.8
+137215,7422,"The movie is brilliant , really .",4,"The movie is brilliant , really .",2,2,1.8
+53908,2676,asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up .,2,asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up .,0,2,1.8
+53909,2676,asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up,3,asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up,0,3,1.8
+12562,539,` This movie sucks . ',0,` This movie sucks . ',2,2,1.8
+12563,539,This movie sucks . ',1,This movie sucks . ',2,1,1.8
+12564,539,sucks . ',0,sucks . ',2,2,1.8
+12565,539,sucks .,0,sucks .,2,2,1.8
+53910,2676,nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up,3,nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up,0,3,1.8
+53911,2676,of the audience other than to sit back and enjoy a couple of great actors hamming it up,3,of the audience other than to sit back and enjoy a couple of great actors hamming it up,0,3,1.8
+12566,539,sucks,0,sucks,2,2,1.8
+11104,475,An extremely unpleasant film .,0,An extremely unpleasant film .,2,2,1.8
+53912,2676,the audience other than to sit back and enjoy a couple of great actors hamming it up,3,the audience other than to sit back and enjoy a couple of great actors hamming it up,0,3,1.8
+53913,2676,other than to sit back and enjoy a couple of great actors hamming it up,3,other than to sit back and enjoy a couple of great actors hamming it up,0,3,1.8
+137216,7422,"is brilliant , really .",4,"is brilliant , really .",2,2,1.8
+53914,2676,than to sit back and enjoy a couple of great actors hamming it up,4,than to sit back and enjoy a couple of great actors hamming it up,0,4,1.8
+144839,7863,a mess from start to finish,0,a mess from start to finish,2,2,1.8
+53915,2676,to sit back and enjoy a couple of great actors hamming it up,3,to sit back and enjoy a couple of great actors hamming it up,0,3,1.8
+137217,7422,"is brilliant , really",4,"is brilliant , really",2,2,1.8
+137218,7422,"is brilliant ,",3,"is brilliant ,",2,1,1.8
+137219,7422,is brilliant,4,is brilliant,2,2,1.8
+126802,6817,power and sadness,2,power and sadness,2,0,1.8
+144838,7863,is a mess from start to finish,0,is a mess from start to finish,2,2,1.8
+144837,7863,is a mess from start to finish .,0,is a mess from start to finish .,2,2,1.8
+144836,7863,The movie is a mess from start to finish .,1,The movie is a mess from start to finish .,4,3,1.8
+126801,6817,riveting power and sadness,3,riveting power and sadness,2,1,1.8
+126800,6817,of riveting power and sadness,3,of riveting power and sadness,2,1,1.8
+126799,6817,A movie of riveting power and sadness,3,A movie of riveting power and sadness,0,3,1.8
+53907,2676,It asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up .,3,It asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up .,0,3,1.8
+126798,6817,A movie of riveting power and sadness .,4,A movie of riveting power and sadness .,0,4,1.8
+53918,2676,sit back,2,sit back,2,0,1.8
+53924,2676,hamming it up,2,hamming it up,2,0,1.8
+53922,2676,great actors hamming it up,3,great actors hamming it up,2,1,1.8
+53921,2676,of great actors hamming it up,1,of great actors hamming it up,2,1,1.8
+53920,2676,a couple of great actors hamming it up,4,a couple of great actors hamming it up,2,2,1.8
+53919,2676,enjoy a couple of great actors hamming it up,3,enjoy a couple of great actors hamming it up,2,1,1.8
+11105,475,An extremely unpleasant film,0,An extremely unpleasant film,2,2,1.8
+53917,2676,sit back and,2,sit back and,2,0,1.8
+53916,2676,sit back and enjoy a couple of great actors hamming it up,4,sit back and enjoy a couple of great actors hamming it up,2,2,1.8
+53925,2676,hamming it,2,hamming it,2,0,1.8
+53926,2676,hamming,2,hamming,2,0,1.8
+11108,475,unpleasant,1,unpleasant,2,1,1.8
+11107,475,extremely unpleasant,0,extremely unpleasant,2,2,1.8
+11106,475,extremely unpleasant film,0,extremely unpleasant film,2,2,1.8
+53923,2676,great actors,4,great actors,2,2,1.8
+110428,5849,the story too intriguing,2,the story too intriguing,2,0,1.7857142857142858
+110429,5849,too intriguing,2,too intriguing,2,0,1.7857142857142858
+110430,5849,for technical flaws to get in the way,1,for technical flaws to get in the way,2,1,1.7857142857142858
+110431,5849,technical flaws to get in the way,1,technical flaws to get in the way,2,1,1.7857142857142858
+110432,5849,technical flaws,1,technical flaws,2,1,1.7857142857142858
+110419,5849,"The actors are simply too good , and the story too intriguing , for technical flaws to get in the way .",4,"The actors are simply too good , and the story too intriguing , for technical flaws to get in the way .",1,3,1.7857142857142858
+110427,5849,too good,3,too good,1,2,1.7857142857142858
+110426,5849,are simply too good,3,are simply too good,1,2,1.7857142857142858
+110425,5849,The actors are simply too good,4,The actors are simply too good,1,3,1.7857142857142858
+110424,5849,"The actors are simply too good ,",3,"The actors are simply too good ,",1,2,1.7857142857142858
+110423,5849,"The actors are simply too good , and",4,"The actors are simply too good , and",1,3,1.7857142857142858
+110422,5849,"The actors are simply too good , and the story too intriguing",4,"The actors are simply too good , and the story too intriguing",1,3,1.7857142857142858
+110421,5849,"The actors are simply too good , and the story too intriguing ,",4,"The actors are simply too good , and the story too intriguing ,",1,3,1.7857142857142858
+110420,5849,"The actors are simply too good , and the story too intriguing , for technical flaws to get in the way",2,"The actors are simply too good , and the story too intriguing , for technical flaws to get in the way",1,1,1.7857142857142858
+65745,3333,"It 's a loathsome movie ,",0,"It 's a loathsome movie ,",2,2,1.7857142857142858
+65748,3333,a loathsome movie,0,a loathsome movie,2,2,1.7857142857142858
+65747,3333,'s a loathsome movie,1,'s a loathsome movie,2,1,1.7857142857142858
+65753,3333,makes absolutely no sense,0,makes absolutely no sense,2,2,1.7857142857142858
+65752,3333,it makes absolutely no sense,0,it makes absolutely no sense,2,2,1.7857142857142858
+65751,3333,really is,2,really is,2,0,1.7857142857142858
+65750,3333,it really is,2,it really is,2,0,1.7857142857142858
+65749,3333,loathsome movie,0,loathsome movie,2,2,1.7857142857142858
+65741,3333,"It 's a loathsome movie , it really is and it makes absolutely no sense .",0,"It 's a loathsome movie , it really is and it makes absolutely no sense .",3,3,1.7857142857142858
+65754,3333,absolutely no sense,2,absolutely no sense,2,0,1.7857142857142858
+65746,3333,It 's a loathsome movie,0,It 's a loathsome movie,2,2,1.7857142857142858
+65742,3333,"It 's a loathsome movie , it really is and it makes absolutely no sense",0,"It 's a loathsome movie , it really is and it makes absolutely no sense",3,3,1.7857142857142858
+65743,3333,"It 's a loathsome movie , it really is and",0,"It 's a loathsome movie , it really is and",3,3,1.7857142857142858
+65744,3333,"It 's a loathsome movie , it really is",0,"It 's a loathsome movie , it really is",3,3,1.7857142857142858
+63513,3214,one of the finest films of the year,4,one of the finest films of the year,2,2,1.7777777777777777
+50161,2464,family drama,3,family drama,2,1,1.7777777777777777
+50160,2464,entertaining and moving,4,entertaining and moving,2,2,1.7777777777777777
+50158,2464,solidly entertaining and moving family drama,4,solidly entertaining and moving family drama,2,2,1.7777777777777777
+50157,2464,a solidly entertaining and moving family drama,4,a solidly entertaining and moving family drama,2,2,1.7777777777777777
+50156,2464,delivered a solidly entertaining and moving family drama,4,delivered a solidly entertaining and moving family drama,2,2,1.7777777777777777
+50155,2464,has delivered a solidly entertaining and moving family drama,4,has delivered a solidly entertaining and moving family drama,2,2,1.7777777777777777
+50154,2464,has delivered a solidly entertaining and moving family drama .,3,has delivered a solidly entertaining and moving family drama .,2,1,1.7777777777777777
+50153,2464,Jones has delivered a solidly entertaining and moving family drama .,4,Jones has delivered a solidly entertaining and moving family drama .,2,2,1.7777777777777777
+63510,3214,is undoubtedly one of the finest films of the year .,4,is undoubtedly one of the finest films of the year .,2,2,1.7777777777777777
+63509,3214,About Schmidt is undoubtedly one of the finest films of the year .,4,About Schmidt is undoubtedly one of the finest films of the year .,2,2,1.7777777777777777
+50159,2464,solidly entertaining and moving,4,solidly entertaining and moving,2,2,1.7777777777777777
+63514,3214,of the finest films of the year,4,of the finest films of the year,2,2,1.7777777777777777
+63515,3214,the finest films of the year,4,the finest films of the year,2,2,1.7777777777777777
+63511,3214,is undoubtedly one of the finest films of the year,4,is undoubtedly one of the finest films of the year,2,2,1.7777777777777777
+63516,3214,the finest films,4,the finest films,2,2,1.7777777777777777
+63517,3214,finest films,4,finest films,2,2,1.7777777777777777
+63512,3214,is undoubtedly,2,is undoubtedly,2,0,1.7777777777777777
+150896,8225,"sweet , genuine",4,"sweet , genuine",2,2,1.7647058823529411
+150895,8225,"sweet , genuine chemistry",3,"sweet , genuine chemistry",2,1,1.7647058823529411
+150894,8225,perfect comic timing,4,perfect comic timing,2,2,1.7647058823529411
+150893,8225,the actors ' perfect comic timing,4,the actors ' perfect comic timing,2,2,1.7647058823529411
+150892,8225,the actors ' perfect comic timing and,3,the actors ' perfect comic timing and,2,1,1.7647058823529411
+150881,8225,"Fortunately , Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",3,"Fortunately , Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",1,2,1.7647058823529411
+100071,5251,The entire movie is so formulaic and forgettable that it 's hardly over before it begins to fade from memory .,0,The entire movie is so formulaic and forgettable that it 's hardly over before it begins to fade from memory .,4,4,1.7647058823529411
+150891,8225,"the actors ' perfect comic timing and sweet , genuine chemistry",4,"the actors ' perfect comic timing and sweet , genuine chemistry",2,2,1.7647058823529411
+150890,8225,"to the actors ' perfect comic timing and sweet , genuine chemistry",4,"to the actors ' perfect comic timing and sweet , genuine chemistry",2,2,1.7647058823529411
+150889,8225,"thanks to the actors ' perfect comic timing and sweet , genuine chemistry",3,"thanks to the actors ' perfect comic timing and sweet , genuine chemistry",2,1,1.7647058823529411
+150888,8225,too cloying,2,too cloying,2,0,1.7647058823529411
+150887,8225,gets too cloying,1,gets too cloying,2,1,1.7647058823529411
+150882,8225,", Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",3,", Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",1,2,1.7647058823529411
+150897,8225,", genuine",4,", genuine",2,2,1.7647058823529411
+100072,5251,is so formulaic and forgettable that it 's hardly over before it begins to fade from memory .,0,is so formulaic and forgettable that it 's hardly over before it begins to fade from memory .,4,4,1.7647058823529411
+150884,8225,"never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",4,"never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",1,3,1.7647058823529411
+100073,5251,is so formulaic and forgettable that it 's hardly over before it begins to fade from memory,0,is so formulaic and forgettable that it 's hardly over before it begins to fade from memory,4,4,1.7647058823529411
+100074,5251,so formulaic and forgettable that it 's hardly over before it begins to fade from memory,0,so formulaic and forgettable that it 's hardly over before it begins to fade from memory,4,4,1.7647058823529411
+100075,5251,formulaic and forgettable that it 's hardly over before it begins to fade from memory,1,formulaic and forgettable that it 's hardly over before it begins to fade from memory,4,3,1.7647058823529411
+100076,5251,formulaic and forgettable,0,formulaic and forgettable,2,2,1.7647058823529411
+100077,5251,that it 's hardly over before it begins to fade from memory,1,that it 's hardly over before it begins to fade from memory,2,1,1.7647058823529411
+100078,5251,it 's hardly over before it begins to fade from memory,0,it 's hardly over before it begins to fade from memory,2,2,1.7647058823529411
+100079,5251,'s hardly over before it begins to fade from memory,0,'s hardly over before it begins to fade from memory,2,2,1.7647058823529411
+100080,5251,'s hardly over,2,'s hardly over,2,0,1.7647058823529411
+100081,5251,hardly over,2,hardly over,2,0,1.7647058823529411
+100082,5251,before it begins to fade from memory,1,before it begins to fade from memory,2,1,1.7647058823529411
+100083,5251,it begins to fade from memory,1,it begins to fade from memory,2,1,1.7647058823529411
+100084,5251,begins to fade from memory,1,begins to fade from memory,2,1,1.7647058823529411
+100085,5251,to fade from memory,2,to fade from memory,2,0,1.7647058823529411
+100086,5251,fade from memory,1,fade from memory,2,1,1.7647058823529411
+150885,8225,"gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",3,"gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",1,2,1.7647058823529411
+150886,8225,"gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry",3,"gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry",1,2,1.7647058823529411
+100087,5251,from memory,2,from memory,2,0,1.7647058823529411
+150883,8225,"Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",4,"Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",1,3,1.7647058823529411
+73444,3753,comes out looking like something wholly original,4,comes out looking like something wholly original,2,2,1.7619047619047619
+73435,3753,see a movie,3,see a movie,2,1,1.7619047619047619
+73436,3753,that embraces its old-fashioned themes and in the process comes out looking like something wholly original,3,that embraces its old-fashioned themes and in the process comes out looking like something wholly original,0,3,1.7619047619047619
+73449,3753,wholly original,2,wholly original,2,0,1.7619047619047619
+73448,3753,something wholly original,3,something wholly original,2,1,1.7619047619047619
+73447,3753,like something wholly original,4,like something wholly original,2,2,1.7619047619047619
+73446,3753,looking like something wholly original,3,looking like something wholly original,2,1,1.7619047619047619
+73445,3753,comes out,2,comes out,2,0,1.7619047619047619
+73437,3753,that embraces its old-fashioned themes and,3,that embraces its old-fashioned themes and,2,1,1.7619047619047619
+73432,3753,refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,4,refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,0,4,1.7619047619047619
+73438,3753,that embraces its old-fashioned themes,3,that embraces its old-fashioned themes,2,1,1.7619047619047619
+73439,3753,embraces its old-fashioned themes,3,embraces its old-fashioned themes,2,1,1.7619047619047619
+73443,3753,the process comes out looking like something wholly original,3,the process comes out looking like something wholly original,2,1,1.7619047619047619
+73442,3753,in the process comes out looking like something wholly original,3,in the process comes out looking like something wholly original,2,1,1.7619047619047619
+73441,3753,old-fashioned themes,3,old-fashioned themes,2,1,1.7619047619047619
+73440,3753,its old-fashioned themes,2,its old-fashioned themes,2,0,1.7619047619047619
+73433,3753,to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,3,to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,0,3,1.7619047619047619
+73434,3753,see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,3,see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,0,3,1.7619047619047619
+73431,3753,'s refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,3,'s refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original,0,3,1.7619047619047619
+73430,3753,'s refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original .,4,'s refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original .,0,4,1.7619047619047619
+73429,3753,it 's refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original .,4,it 's refreshing to see a movie that embraces its old-fashioned themes and in the process comes out looking like something wholly original .,0,4,1.7619047619047619
+149308,8125,elegant and sly,3,elegant and sly,2,1,1.75
+69279,3522,An awful snooze .,0,An awful snooze .,2,2,1.75
+121243,6492,Watching it was painful,0,Watching it was painful,2,2,1.75
+120943,6474,"No , I hate it .",0,"No , I hate it .",2,2,1.75
+149305,8125,An elegant and sly deadpan comedy .,3,An elegant and sly deadpan comedy .,0,3,1.75
+69280,3522,awful snooze .,0,awful snooze .,2,2,1.75
+116278,6198,One of the worst films of 2002,1,One of the worst films of 2002,2,1,1.75
+69281,3522,snooze .,1,snooze .,2,1,1.75
+11170,480,Intelligent,4,Intelligent,2,2,1.75
+11169,480,Intelligent and,3,Intelligent and,2,1,1.75
+11168,480,Intelligent and moving,4,Intelligent and moving,2,2,1.75
+11167,480,Intelligent and moving .,4,Intelligent and moving .,2,2,1.75
+138665,7513,are puerile,0,are puerile,2,2,1.75
+120946,6474,hate it .,1,hate it .,2,1,1.75
+116279,6198,of the worst films of 2002,0,of the worst films of 2002,2,2,1.75
+138664,7513,are puerile .,2,are puerile .,2,0,1.75
+138663,7513,the gags are puerile .,0,the gags are puerile .,2,2,1.75
+138662,7513,'s pathetic,0,'s pathetic,2,2,1.75
+138661,7513,The story 's pathetic,0,The story 's pathetic,2,2,1.75
+138660,7513,The story 's pathetic and,0,The story 's pathetic and,2,2,1.75
+138659,7513,The story 's pathetic and the gags are puerile .,0,The story 's pathetic and the gags are puerile .,2,2,1.75
+121244,6492,was painful,0,was painful,2,2,1.75
+149306,8125,An elegant and sly deadpan,4,An elegant and sly deadpan,2,2,1.75
+116280,6198,the worst films of 2002,0,the worst films of 2002,2,2,1.75
+120945,6474,I hate it .,0,I hate it .,2,2,1.75
+121242,6492,Watching it was painful .,0,Watching it was painful .,2,2,1.75
+149307,8125,elegant and sly deadpan,3,elegant and sly deadpan,2,1,1.75
+138658,7513,The story 's pathetic and the gags are puerile . .,0,The story 's pathetic and the gags are puerile . .,2,2,1.75
+90264,4698,is worth the price of admission,3,is worth the price of admission,2,1,1.75
+69282,3522,snooze,0,snooze,2,2,1.75
+120944,6474,", I hate it .",0,", I hate it .",2,2,1.75
+121241,6492,... Watching it was painful .,1,... Watching it was painful .,2,1,1.75
+90263,4698,is worth the price of admission .,4,is worth the price of admission .,2,2,1.75
+111599,5921,is powerful and provocative,4,is powerful and provocative,2,2,1.75
+90262,4698,alone is worth the price of admission .,4,alone is worth the price of admission .,2,2,1.75
+111596,5921,", the movie is powerful and provocative .",4,", the movie is powerful and provocative .",2,2,1.75
+111595,5921,by Ryan Gosling -LRB- Murder by Numbers -RRB-,2,by Ryan Gosling -LRB- Murder by Numbers -RRB-,2,0,1.75
+111594,5921,searing lead performance,4,searing lead performance,2,2,1.75
+73530,3758,A moving and important film .,4,A moving and important film .,2,2,1.75
+73531,3758,A moving and important film,4,A moving and important film,2,2,1.75
+73532,3758,moving and important film,3,moving and important film,2,1,1.75
+73533,3758,moving and important,4,moving and important,2,2,1.75
+111593,5921,a searing lead performance,4,a searing lead performance,2,2,1.75
+111592,5921,with a searing lead performance,4,with a searing lead performance,2,2,1.75
+111591,5921,Blessed with a searing lead performance,3,Blessed with a searing lead performance,2,1,1.75
+111590,5921,Blessed with a searing lead performance by Ryan Gosling -LRB- Murder by Numbers -RRB-,3,Blessed with a searing lead performance by Ryan Gosling -LRB- Murder by Numbers -RRB-,2,1,1.75
+111589,5921,"Blessed with a searing lead performance by Ryan Gosling -LRB- Murder by Numbers -RRB- , the movie is powerful and provocative .",4,"Blessed with a searing lead performance by Ryan Gosling -LRB- Murder by Numbers -RRB- , the movie is powerful and provocative .",1,3,1.75
+126158,6779,The Pianist is Polanski 's best film .,4,The Pianist is Polanski 's best film .,2,2,1.75
+126159,6779,is Polanski 's best film .,3,is Polanski 's best film .,2,1,1.75
+116277,6198,One of the worst films of 2002 .,0,One of the worst films of 2002 .,2,2,1.75
+150013,8170,Snipes is both a snore and utter tripe .,1,Snipes is both a snore and utter tripe .,3,2,1.75
+150014,8170,is both a snore and utter tripe .,0,is both a snore and utter tripe .,3,3,1.75
+150015,8170,is both a snore and utter tripe,0,is both a snore and utter tripe,3,3,1.75
+150016,8170,both a snore and utter tripe,2,both a snore and utter tripe,2,0,1.75
+150017,8170,a snore and utter tripe,0,a snore and utter tripe,2,2,1.75
+150018,8170,a snore and,1,a snore and,2,1,1.75
+150019,8170,a snore,1,a snore,2,1,1.75
+107780,5697,"smart , compelling",4,"smart , compelling",2,2,1.75
+107779,5697,"smart , compelling drama",3,"smart , compelling drama",2,1,1.75
+126160,6779,is Polanski 's best film,4,is Polanski 's best film,2,2,1.75
+126161,6779,Polanski 's best film,4,Polanski 's best film,2,2,1.75
+107778,5697,"A smart , compelling drama",4,"A smart , compelling drama",2,2,1.75
+107777,5697,"A smart , compelling drama .",4,"A smart , compelling drama .",2,2,1.75
+111598,5921,is powerful and provocative .,4,is powerful and provocative .,2,2,1.75
+111597,5921,the movie is powerful and provocative .,4,the movie is powerful and provocative .,2,2,1.75
+111600,5921,powerful and provocative,4,powerful and provocative,2,2,1.75
+90261,4698,The soundtrack alone is worth the price of admission .,4,The soundtrack alone is worth the price of admission .,2,2,1.75
+93765,4890,ingenious fun,4,ingenious fun,2,2,1.75
+96999,5070,snoozer,0,snoozer,2,2,1.75
+93764,4890,is ingenious fun,3,is ingenious fun,2,1,1.75
+93763,4890,is ingenious fun .,4,is ingenious fun .,2,2,1.75
+93762,4890,The movie is ingenious fun .,4,The movie is ingenious fun .,2,2,1.75
+96998,5070,snoozer .,0,snoozer .,2,2,1.75
+96997,5070,high-minded snoozer .,0,high-minded snoozer .,2,2,1.75
+96996,5070,A high-minded snoozer .,1,A high-minded snoozer .,2,1,1.75
+150020,8170,utter tripe,0,utter tripe,2,2,1.75
+141885,7696,feels universal,3,feels universal,2,1,1.7333333333333334
+141871,7696,"This is an extraordinary film , not least because it is Japanese and yet feels universal .",4,"This is an extraordinary film , not least because it is Japanese and yet feels universal .",0,4,1.7333333333333334
+141872,7696,"is an extraordinary film , not least because it is Japanese and yet feels universal .",4,"is an extraordinary film , not least because it is Japanese and yet feels universal .",0,4,1.7333333333333334
+141877,7696,an extraordinary film,4,an extraordinary film,2,2,1.7333333333333334
+141873,7696,"is an extraordinary film , not least because it is Japanese and yet feels universal",4,"is an extraordinary film , not least because it is Japanese and yet feels universal",0,4,1.7333333333333334
+141881,7696,is Japanese and yet feels universal,3,is Japanese and yet feels universal,3,0,1.7333333333333334
+141884,7696,yet feels universal,3,yet feels universal,2,1,1.7333333333333334
+141882,7696,is Japanese and,2,is Japanese and,3,1,1.7333333333333334
+141878,7696,extraordinary film,4,extraordinary film,2,2,1.7333333333333334
+141874,7696,"is an extraordinary film , not least",3,"is an extraordinary film , not least",0,3,1.7333333333333334
+141875,7696,"an extraordinary film , not least",4,"an extraordinary film , not least",2,2,1.7333333333333334
+141879,7696,because it is Japanese and yet feels universal,3,because it is Japanese and yet feels universal,3,0,1.7333333333333334
+141880,7696,it is Japanese and yet feels universal,3,it is Japanese and yet feels universal,3,0,1.7333333333333334
+141876,7696,"an extraordinary film ,",4,"an extraordinary film ,",2,2,1.7333333333333334
+141883,7696,is Japanese,2,is Japanese,2,0,1.7333333333333334
+132946,7170,"far-flung ,",1,"far-flung ,",2,1,1.7272727272727273
+132948,7170,plain stupid,2,plain stupid,2,0,1.7272727272727273
+132947,7170,far-flung,1,far-flung,2,1,1.7272727272727273
+132944,7170,"far-flung , illogical ,",1,"far-flung , illogical ,",2,1,1.7272727272727273
+132945,7170,"far-flung , illogical",1,"far-flung , illogical",2,1,1.7272727272727273
+132943,7170,"far-flung , illogical , and",1,"far-flung , illogical , and",2,1,1.7272727272727273
+132942,7170,"far-flung , illogical , and plain stupid",0,"far-flung , illogical , and plain stupid",2,2,1.7272727272727273
+132941,7170,"is far-flung , illogical , and plain stupid",0,"is far-flung , illogical , and plain stupid",3,3,1.7272727272727273
+132940,7170,"is far-flung , illogical , and plain stupid .",0,"is far-flung , illogical , and plain stupid .",3,3,1.7272727272727273
+132939,7170,"the story is far-flung , illogical , and plain stupid .",0,"the story is far-flung , illogical , and plain stupid .",3,3,1.7272727272727273
+132938,7170,"... the story is far-flung , illogical , and plain stupid .",0,"... the story is far-flung , illogical , and plain stupid .",3,3,1.7272727272727273
+152188,8302,painful ride,0,painful ride,2,2,1.72
+152187,8302,a painful ride,0,a painful ride,2,2,1.72
+78827,4056,"its content , look , and style",2,"its content , look , and style",2,0,1.72
+152165,8302,"if you , like me , think an action film disguised as a war tribute is disgusting to begin with , then you 're in for a painful ride .",0,"if you , like me , think an action film disguised as a war tribute is disgusting to begin with , then you 're in for a painful ride .",4,4,1.72
+152447,8318,"exquisite , unfakable sense",3,"exquisite , unfakable sense",2,1,1.72
+152448,8318,", unfakable sense",2,", unfakable sense",2,0,1.72
+152449,8318,unfakable sense,2,unfakable sense,2,0,1.72
+152450,8318,unfakable,2,unfakable,2,0,1.72
+78832,4056,its content,2,its content,2,0,1.72
+78831,4056,"its content ,",2,"its content ,",2,0,1.72
+78830,4056,"its content , look",2,"its content , look",2,0,1.72
+78829,4056,"its content , look ,",2,"its content , look ,",2,0,1.72
+78828,4056,"its content , look , and",2,"its content , look , and",2,0,1.72
+78826,4056,"is its content , look , and style",2,"is its content , look , and style",0,2,1.72
+78825,4056,"original is its content , look , and style",3,"original is its content , look , and style",0,3,1.72
+78824,4056,the body,2,the body,2,0,1.72
+78823,4056,with the body,2,with the body,2,0,1.72
+78822,4056,mind and,2,mind and,2,0,1.72
+78821,4056,mind and spirit,3,mind and spirit,2,1,1.72
+78820,4056,the mind and spirit,2,the mind and spirit,2,0,1.72
+78819,4056,refreshes,3,refreshes,2,1,1.72
+152446,8318,"an exquisite , unfakable sense",3,"an exquisite , unfakable sense",2,1,1.72
+152445,8318,"an exquisite , unfakable sense of cinema",3,"an exquisite , unfakable sense of cinema",2,1,1.72
+152444,8318,pitch-perfect acting,4,pitch-perfect acting,2,2,1.72
+152434,8318,"such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema",4,"such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema",0,4,1.72
+152427,8318,", indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",4,", indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",0,4,1.72
+152428,8318,"indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",3,"indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",0,3,1.72
+152429,8318,indeed almost never,2,indeed almost never,2,0,1.72
+152430,8318,indeed almost,2,indeed almost,2,0,1.72
+152431,8318,", is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",3,", is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",0,3,1.72
+152432,8318,"is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",4,"is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",0,4,1.72
+152433,8318,"is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema",4,"is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema",0,4,1.72
+152435,8318,such high-wattage brainpower coupled with pitch-perfect acting and,3,such high-wattage brainpower coupled with pitch-perfect acting and,2,1,1.72
+152443,8318,with pitch-perfect acting,4,with pitch-perfect acting,2,2,1.72
+152436,8318,such high-wattage brainpower coupled with pitch-perfect acting,4,such high-wattage brainpower coupled with pitch-perfect acting,2,2,1.72
+152437,8318,such high-wattage brainpower,4,such high-wattage brainpower,2,2,1.72
+152438,8318,high-wattage brainpower,4,high-wattage brainpower,2,2,1.72
+152439,8318,high-wattage,3,high-wattage,2,1,1.72
+152440,8318,brainpower,2,brainpower,2,0,1.72
+152441,8318,coupled with pitch-perfect acting,4,coupled with pitch-perfect acting,2,2,1.72
+152442,8318,coupled,2,coupled,2,0,1.72
+152164,8302,"... if you , like me , think an action film disguised as a war tribute is disgusting to begin with , then you 're in for a painful ride .",0,"... if you , like me , think an action film disguised as a war tribute is disgusting to begin with , then you 're in for a painful ride .",4,4,1.72
+152426,8318,"Rarely , indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",4,"Rarely , indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",0,4,1.72
+152166,8302,"if you , like me , think an action film disguised as a war tribute is disgusting to begin with",0,"if you , like me , think an action film disguised as a war tribute is disgusting to begin with",0,0,1.72
+78816,4056,refreshes the mind and spirit along with the body,4,refreshes the mind and spirit along with the body,2,2,1.72
+78810,4056,"This is a movie that refreshes the mind and spirit along with the body , so",4,"This is a movie that refreshes the mind and spirit along with the body , so",0,4,1.72
+78811,4056,"This is a movie that refreshes the mind and spirit along with the body ,",4,"This is a movie that refreshes the mind and spirit along with the body ,",0,4,1.72
+78812,4056,This is a movie that refreshes the mind and spirit along with the body,4,This is a movie that refreshes the mind and spirit along with the body,0,4,1.72
+78813,4056,is a movie that refreshes the mind and spirit along with the body,4,is a movie that refreshes the mind and spirit along with the body,0,4,1.72
+78814,4056,a movie that refreshes the mind and spirit along with the body,3,a movie that refreshes the mind and spirit along with the body,0,3,1.72
+78815,4056,that refreshes the mind and spirit along with the body,3,that refreshes the mind and spirit along with the body,0,3,1.72
+152167,8302,"you , like me , think an action film disguised as a war tribute is disgusting to begin with",1,"you , like me , think an action film disguised as a war tribute is disgusting to begin with",4,3,1.72
+78808,4056,"This is a movie that refreshes the mind and spirit along with the body , so original is its content , look , and style .",4,"This is a movie that refreshes the mind and spirit along with the body , so original is its content , look , and style .",0,4,1.72
+78817,4056,refreshes the mind and spirit along,4,refreshes the mind and spirit along,2,2,1.72
+78818,4056,refreshes the mind and spirit,4,refreshes the mind and spirit,2,2,1.72
+152186,8302,for a painful ride,0,for a painful ride,2,2,1.72
+152181,8302,then you 're in for a painful ride .,1,then you 're in for a painful ride .,2,1,1.72
+152182,8302,you 're in for a painful ride .,0,you 're in for a painful ride .,2,2,1.72
+152183,8302,'re in for a painful ride .,1,'re in for a painful ride .,2,1,1.72
+152185,8302,in for a painful ride,2,in for a painful ride,2,0,1.72
+78809,4056,"This is a movie that refreshes the mind and spirit along with the body , so original is its content , look , and style",4,"This is a movie that refreshes the mind and spirit along with the body , so original is its content , look , and style",0,4,1.72
+152184,8302,'re in for a painful ride,1,'re in for a painful ride,2,1,1.72
+152172,8302,an action film disguised as a war tribute is disgusting to begin with,1,an action film disguised as a war tribute is disgusting to begin with,4,3,1.72
+152168,8302,", like me , think an action film disguised as a war tribute is disgusting to begin with",1,", like me , think an action film disguised as a war tribute is disgusting to begin with",0,1,1.72
+152169,8302,"like me , think an action film disguised as a war tribute is disgusting to begin with",0,"like me , think an action film disguised as a war tribute is disgusting to begin with",0,0,1.72
+152170,8302,", think an action film disguised as a war tribute is disgusting to begin with",1,", think an action film disguised as a war tribute is disgusting to begin with",4,3,1.72
+152171,8302,think an action film disguised as a war tribute is disgusting to begin with,0,think an action film disguised as a war tribute is disgusting to begin with,4,4,1.72
+152180,8302,", then you 're in for a painful ride .",1,", then you 're in for a painful ride .",2,1,1.72
+152179,8302,disgusting to begin with,0,disgusting to begin with,2,2,1.72
+152178,8302,is disgusting to begin with,1,is disgusting to begin with,2,1,1.72
+152177,8302,war tribute,2,war tribute,2,0,1.72
+152176,8302,a war tribute,3,a war tribute,2,1,1.72
+152175,8302,a war tribute is disgusting to begin with,0,a war tribute is disgusting to begin with,2,2,1.72
+152174,8302,as a war tribute is disgusting to begin with,0,as a war tribute is disgusting to begin with,2,2,1.72
+152173,8302,disguised as a war tribute is disgusting to begin with,1,disguised as a war tribute is disgusting to begin with,2,1,1.72
+63277,3200,denying that Burns is a filmmaker with a bright future ahead of him,3,denying that Burns is a filmmaker with a bright future ahead of him,0,3,1.7142857142857142
+98196,5145,"ugly , pointless , stupid",0,"ugly , pointless , stupid",2,2,1.7142857142857142
+98195,5145,"ugly , pointless , stupid movie",1,"ugly , pointless , stupid movie",2,1,1.7142857142857142
+98199,5145,", stupid",1,", stupid",2,1,1.7142857142857142
+98198,5145,"pointless , stupid",0,"pointless , stupid",2,2,1.7142857142857142
+98197,5145,", pointless , stupid",0,", pointless , stupid",2,2,1.7142857142857142
+98194,5145,"An ugly , pointless , stupid movie",0,"An ugly , pointless , stupid movie",2,2,1.7142857142857142
+98193,5145,"An ugly , pointless , stupid movie .",0,"An ugly , pointless , stupid movie .",2,2,1.7142857142857142
+49246,2408,"its characters , its stars and its audience",2,"its characters , its stars and its audience",3,1,1.7142857142857142
+61834,3125,phenomenal,4,phenomenal,2,2,1.7142857142857142
+49238,2408,inhuman cinematic punishment,0,inhuman cinematic punishment,2,2,1.7142857142857142
+101085,5311,... spellbinding fun and deliciously exploitative .,4,... spellbinding fun and deliciously exploitative .,2,2,1.7142857142857142
+49235,2408,"Cruel and inhuman cinematic punishment ... simultaneously degrades its characters , its stars and its audience .",0,"Cruel and inhuman cinematic punishment ... simultaneously degrades its characters , its stars and its audience .",3,3,1.7142857142857142
+49236,2408,Cruel and inhuman cinematic punishment,0,Cruel and inhuman cinematic punishment,2,2,1.7142857142857142
+49237,2408,Cruel and,1,Cruel and,2,1,1.7142857142857142
+61828,3125,"The cast is phenomenal , especially the women .",4,"The cast is phenomenal , especially the women .",2,2,1.7142857142857142
+61830,3125,"is phenomenal , especially the women",4,"is phenomenal , especially the women",2,2,1.7142857142857142
+61831,3125,"phenomenal , especially the women",2,"phenomenal , especially the women",2,0,1.7142857142857142
+61832,3125,"phenomenal , especially",4,"phenomenal , especially",2,2,1.7142857142857142
+49239,2408,inhuman,1,inhuman,2,1,1.7142857142857142
+61833,3125,"phenomenal ,",4,"phenomenal ,",2,2,1.7142857142857142
+49240,2408,cinematic punishment,0,cinematic punishment,2,2,1.7142857142857142
+49241,2408,"... simultaneously degrades its characters , its stars and its audience .",1,"... simultaneously degrades its characters , its stars and its audience .",3,2,1.7142857142857142
+49242,2408,"simultaneously degrades its characters , its stars and its audience .",0,"simultaneously degrades its characters , its stars and its audience .",3,3,1.7142857142857142
+49243,2408,"degrades its characters , its stars and its audience .",0,"degrades its characters , its stars and its audience .",3,3,1.7142857142857142
+49244,2408,"degrades its characters , its stars and its audience",0,"degrades its characters , its stars and its audience",3,3,1.7142857142857142
+49245,2408,degrades,2,degrades,2,0,1.7142857142857142
+49247,2408,"its characters , its stars and",2,"its characters , its stars and",3,1,1.7142857142857142
+49248,2408,"its characters , its stars",2,"its characters , its stars",2,0,1.7142857142857142
+63276,3200,no denying that Burns is a filmmaker with a bright future ahead of him,4,no denying that Burns is a filmmaker with a bright future ahead of him,3,1,1.7142857142857142
+61829,3125,"is phenomenal , especially the women .",4,"is phenomenal , especially the women .",2,2,1.7142857142857142
+101086,5311,spellbinding fun and deliciously exploitative .,4,spellbinding fun and deliciously exploitative .,2,2,1.7142857142857142
+63278,3200,that Burns is a filmmaker with a bright future ahead of him,3,that Burns is a filmmaker with a bright future ahead of him,0,3,1.7142857142857142
+63282,3200,with a bright future ahead of him,3,with a bright future ahead of him,2,1,1.7142857142857142
+63281,3200,a filmmaker with a bright future ahead of him,3,a filmmaker with a bright future ahead of him,2,1,1.7142857142857142
+63280,3200,is a filmmaker with a bright future ahead of him,4,is a filmmaker with a bright future ahead of him,2,2,1.7142857142857142
+63284,3200,a bright future,4,a bright future,2,2,1.7142857142857142
+63273,3200,There 's no denying that Burns is a filmmaker with a bright future ahead of him .,4,There 's no denying that Burns is a filmmaker with a bright future ahead of him .,1,3,1.7142857142857142
+63274,3200,'s no denying that Burns is a filmmaker with a bright future ahead of him .,3,'s no denying that Burns is a filmmaker with a bright future ahead of him .,1,2,1.7142857142857142
+63275,3200,'s no denying that Burns is a filmmaker with a bright future ahead of him,4,'s no denying that Burns is a filmmaker with a bright future ahead of him,3,1,1.7142857142857142
+63285,3200,bright future,3,bright future,2,1,1.7142857142857142
+63286,3200,bright,3,bright,2,1,1.7142857142857142
+7708,312,... irritating soul-searching garbage .,0,... irritating soul-searching garbage .,2,2,1.7142857142857142
+7709,312,irritating soul-searching garbage .,0,irritating soul-searching garbage .,2,2,1.7142857142857142
+7710,312,irritating,0,irritating,2,2,1.7142857142857142
+7711,312,soul-searching garbage .,0,soul-searching garbage .,2,2,1.7142857142857142
+63279,3200,Burns is a filmmaker with a bright future ahead of him,4,Burns is a filmmaker with a bright future ahead of him,2,2,1.7142857142857142
+63283,3200,a bright future ahead of him,3,a bright future ahead of him,2,1,1.7142857142857142
+7712,312,soul-searching,3,soul-searching,2,1,1.7142857142857142
+7713,312,garbage .,0,garbage .,2,2,1.7142857142857142
+7714,312,garbage,1,garbage,2,1,1.7142857142857142
+101091,5311,deliciously exploitative,3,deliciously exploitative,2,1,1.7142857142857142
+101090,5311,spellbinding,4,spellbinding,2,2,1.7142857142857142
+101089,5311,spellbinding fun,4,spellbinding fun,2,2,1.7142857142857142
+101088,5311,spellbinding fun and,3,spellbinding fun and,2,1,1.7142857142857142
+101087,5311,spellbinding fun and deliciously exploitative,4,spellbinding fun and deliciously exploitative,2,2,1.7142857142857142
+114968,6122,"be delighted with the fast , funny , and even touching story",4,"be delighted with the fast , funny , and even touching story",0,4,1.7058823529411764
+114962,6122,"Kids five and up will be delighted with the fast , funny , and even touching story .",4,"Kids five and up will be delighted with the fast , funny , and even touching story .",0,4,1.7058823529411764
+114963,6122,Kids five and up,2,Kids five and up,2,0,1.7058823529411764
+114964,6122,Kids five,2,Kids five,2,0,1.7058823529411764
+114965,6122,and up,2,and up,2,0,1.7058823529411764
+114966,6122,"will be delighted with the fast , funny , and even touching story .",4,"will be delighted with the fast , funny , and even touching story .",0,4,1.7058823529411764
+114978,6122,even touching,2,even touching,2,0,1.7058823529411764
+114967,6122,"will be delighted with the fast , funny , and even touching story",4,"will be delighted with the fast , funny , and even touching story",0,4,1.7058823529411764
+114977,6122,and even touching,3,and even touching,2,1,1.7058823529411764
+114969,6122,"delighted with the fast , funny , and even touching story",4,"delighted with the fast , funny , and even touching story",0,4,1.7058823529411764
+114971,6122,"the fast , funny , and even touching story",3,"the fast , funny , and even touching story",4,1,1.7058823529411764
+114972,6122,"fast , funny , and even touching story",4,"fast , funny , and even touching story",4,0,1.7058823529411764
+114970,6122,"with the fast , funny , and even touching story",4,"with the fast , funny , and even touching story",0,4,1.7058823529411764
+114973,6122,"fast , funny , and even touching",3,"fast , funny , and even touching",4,1,1.7058823529411764
+114974,6122,", funny , and even touching",3,", funny , and even touching",4,1,1.7058823529411764
+114975,6122,"funny , and even touching",4,"funny , and even touching",4,0,1.7058823529411764
+114976,6122,", and even touching",3,", and even touching",2,1,1.7058823529411764
+50005,2454,of deep feeling,3,of deep feeling,2,1,1.7
+49999,2454,gives a superb performance full of deep feeling .,4,gives a superb performance full of deep feeling .,2,2,1.7
+50000,2454,gives a superb performance full of deep feeling,4,gives a superb performance full of deep feeling,2,2,1.7
+50001,2454,gives a superb performance,4,gives a superb performance,2,2,1.7
+50002,2454,a superb performance,4,a superb performance,2,2,1.7
+50004,2454,full of deep feeling,4,full of deep feeling,2,2,1.7
+50006,2454,deep feeling,3,deep feeling,2,1,1.7
+49997,2454,Piccoli gives a superb performance full of deep feeling .,4,Piccoli gives a superb performance full of deep feeling .,2,2,1.7
+21733,971,worthless,0,worthless,2,2,1.7
+93655,4883,far the worst movie,0,far the worst movie,2,2,1.7
+93654,4883,far the worst movie of the year,1,far the worst movie of the year,2,1,1.7
+93653,4883,by far the worst movie of the year,0,by far the worst movie of the year,2,2,1.7
+93652,4883,is by far the worst movie of the year,1,is by far the worst movie of the year,3,2,1.7
+93651,4883,is by far the worst movie of the year .,0,is by far the worst movie of the year .,3,3,1.7
+93650,4883,moronic stunts,2,moronic stunts,2,0,1.7
+21732,971,worthless film,1,worthless film,2,1,1.7
+140263,7612,The original was not a good movie but this remake makes it look like a masterpiece !,0,The original was n't a good movie but this remake makes it look like a masterpiece !,3,3,1.7
+49998,2454,Piccoli,1,Piccoli,2,1,1.7
+140267,7612,was not a good movie,1,was n't a good movie,3,2,1.7
+140264,7612,The original was not a good movie but this remake makes it look like a masterpiece,2,The original was n't a good movie but this remake makes it look like a masterpiece,3,1,1.7
+23233,1052,finely,3,finely,2,1,1.7
+140272,7612,like a masterpiece,4,like a masterpiece,2,2,1.7
+140271,7612,look like a masterpiece,3,look like a masterpiece,2,1,1.7
+21731,971,a worthless film,0,a worthless film,2,2,1.7
+23229,1052,"finely crafted , finely written ,",4,"finely crafted , finely written ,",2,2,1.7
+23230,1052,"finely crafted , finely written",4,"finely crafted , finely written",2,2,1.7
+23231,1052,"finely crafted ,",4,"finely crafted ,",2,2,1.7
+23232,1052,finely crafted,4,finely crafted,2,2,1.7
+23234,1052,finely written,4,finely written,2,2,1.7
+140265,7612,The original was not a good movie but,1,The original was n't a good movie but,3,2,1.7
+23235,1052,exquisitely performed,4,exquisitely performed,2,2,1.7
+23236,1052,exquisitely,4,exquisitely,2,2,1.7
+140270,7612,it look like a masterpiece,4,it look like a masterpiece,2,2,1.7
+23237,1052,performed,2,performed,2,0,1.7
+140269,7612,makes it look like a masterpiece,4,makes it look like a masterpiece,2,2,1.7
+140268,7612,this remake makes it look like a masterpiece,2,this remake makes it look like a masterpiece,2,0,1.7
+140266,7612,The original was not a good movie,1,The original was n't a good movie,3,2,1.7
+23228,1052,"finely crafted , finely written , exquisitely performed",4,"finely crafted , finely written , exquisitely performed",2,2,1.7
+50003,2454,superb performance,4,superb performance,2,2,1.7
+93649,4883,of moronic stunts,1,of moronic stunts,2,1,1.7
+93648,4883,Plotless collection,1,Plotless collection,2,1,1.7
+21728,971,to make such a worthless film,1,to make such a worthless film,2,1,1.7
+21727,971,easy to make such a worthless film,0,easy to make such a worthless film,2,2,1.7
+21724,971,It 's probably not easy to make such a worthless film ...,0,It 's probably not easy to make such a worthless film ...,2,2,1.7
+21725,971,'s probably not easy to make such a worthless film ...,0,'s probably not easy to make such a worthless film ...,2,2,1.7
+21726,971,'s probably not easy to make such a worthless film,0,'s probably not easy to make such a worthless film,2,2,1.7
+93646,4883,Plotless collection of moronic stunts is by far the worst movie of the year .,0,Plotless collection of moronic stunts is by far the worst movie of the year .,3,3,1.7
+93647,4883,Plotless collection of moronic stunts,0,Plotless collection of moronic stunts,2,2,1.7
+21729,971,make such a worthless film,1,make such a worthless film,2,1,1.7
+21730,971,such a worthless film,0,such a worthless film,2,2,1.7
+37261,1769,are scenes of cinematic perfection that steal your heart away .,4,are scenes of cinematic perfection that steal your heart away .,2,2,1.6666666666666667
+48310,2358,"I do not know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",0,"I do n't know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",3,3,1.6666666666666667
+144855,7864,of splendid performances,4,of splendid performances,2,2,1.6666666666666667
+144854,7864,a host,2,a host,2,0,1.6666666666666667
+85016,4396,A solidly entertaining,4,A solidly entertaining,2,2,1.6666666666666667
+85015,4396,A solidly entertaining little film,4,A solidly entertaining little film,2,2,1.6666666666666667
+85014,4396,A solidly entertaining little film .,3,A solidly entertaining little film .,2,1,1.6666666666666667
+142555,7739,Cinematic poo .,0,Cinematic poo .,2,2,1.6666666666666667
+48308,2358,"No , I do not know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",1,"No , I do n't know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",3,2,1.6666666666666667
+48309,2358,", I do not know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",0,", I do n't know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",3,3,1.6666666666666667
+48312,2358,"do not know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money",0,"do n't know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money",3,3,1.6666666666666667
+48311,2358,"do not know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",0,"do n't know why Steven Seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good or make any money .",3,3,1.6666666666666667
+144851,7864,acute writing and,2,acute writing and,2,0,1.6666666666666667
+28844,1337,are fantastic,4,are fantastic,2,2,1.6666666666666667
+37260,1769,There are scenes of cinematic perfection that steal your heart away .,4,There are scenes of cinematic perfection that steal your heart away .,2,2,1.6666666666666667
+142556,7739,poo .,0,poo .,2,2,1.6666666666666667
+96804,5057,You 'll probably love it .,4,You 'll probably love it .,2,2,1.6666666666666667
+37262,1769,are scenes of cinematic perfection that steal your heart away,4,are scenes of cinematic perfection that steal your heart away,2,2,1.6666666666666667
