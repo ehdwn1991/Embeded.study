@@ -106,9 +106,9 @@ Thumbs.db
 ./.git/hooks/prepare-commit-msg.sample
 ./.git/hooks/applypatch-msg.sample
 
-./C_programing/수업자료/
-./Python/pythonex/
+C_programing/수업자료/
+Python/pythonex/
 Python/0702/ex/
-./Python/0703/ex/
-./Python/0704/ex/
-./Python/0705/ex/
+Python/0703/ex/
+Python/0704/ex/
+Python/0705/ex/
