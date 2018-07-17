@@ -1,0 +1,348 @@
+
+Allocating common symbols
+Common symbol       size              file
+
+vdblarray           0x1e              sieve.o
+vpppulong           0x4               sieve.o
+vpushort            0x4               sieve.o
+vppppulong          0x4               sieve.o
+vpchar              0x4               sieve.o
+def                 0x8               sieve.o
+vtdef2              0x14              sieve.o
+vunion              0x8               sieve.o
+vpint               0x4               sieve.o
+vppuint             0x4               sieve.o
+vdarray             0x5               sieve.o
+vpuint              0x4               sieve.o
+vint                0x4               sieve.o
+ast                 0x14              sieve.o
+vushort             0x2               sieve.o
+vppuchar            0x4               sieve.o
+stra2               0x190             sieve.o
+aun                 0x18              sieve.o
+vbfield             0x10              sieve.o
+vuchar              0x1               sieve.o
+vpulong             0x4               sieve.o
+vpshort             0x4               sieve.o
+vtarray             0x28              sieve.o
+vtdef1              0x4               sieve.o
+str6                0x10              sieve.o
+vtripplearray       0x18              sieve.o
+funcptr             0x4               sieve.o
+vshort              0x2               sieve.o
+vppushort           0x4               sieve.o
+sinewave            0x13b0            sieve.o
+vuint               0x4               sieve.o
+enumvar             0x1               sieve.o
+flags               0x13              sieve.o
+vulong              0x4               sieve.o
+vplong              0x4               sieve.o
+vchar               0x1               sieve.o
+vppulong            0x4               sieve.o
+str2                0x14              sieve.o
+vpuchar             0x4               sieve.o
+varray              0x28              sieve.o
+vstruct1            0x8               sieve.o
+stra1               0xc8              sieve.o
+vlong               0x4               sieve.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000020000000                __TEXT_START__ = 0x20000000
+
+.text           0x0000000020000000     0x1f8c
+                0x0000000020000000                __TEXT_START__ = .
+ *startup.o(.text)
+ .text          0x0000000020000000      0x27c startup.o
+                0x0000000020000000                ResetEntry
+                0x0000000020000000                _start
+                0x0000000020000020                ResetHandler
+ *(.text)
+ .text          0x000000002000027c     0x12fc sieve.o
+                0x000000002000027c                func0
+                0x00000000200002cc                func2
+                0x00000000200003a0                func2a
+                0x0000000020000428                func2b
+                0x0000000020000498                func2c
+                0x0000000020000528                func2d
+                0x00000000200005d4                func4
+                0x000000002000062c                func5
+                0x000000002000066c                func6
+                0x00000000200006fc                func7
+                0x0000000020000798                func8
+                0x0000000020000a68                func10
+                0x0000000020000da4                func11
+                0x0000000020000e68                func13
+                0x0000000020000f0c                func14
+                0x0000000020000f38                func15
+                0x0000000020000f64                func16
+                0x0000000020000f8c                func17
+                0x0000000020000fc8                func18
+                0x0000000020000ffc                func19
+                0x0000000020001030                func20
+                0x0000000020001078                func21
+                0x00000000200010bc                func22
+                0x0000000020001100                func23
+                0x0000000020001144                func24
+                0x0000000020001160                func25
+                0x0000000020001180                func26
+                0x00000000200011a0                func27
+                0x0000000020001208                func40
+                0x000000002000122c                Main
+                0x00000000200014a0                sieve
+                0x0000000020001550                background
+ .text          0x0000000020001578      0x5c0 common.o
+                0x0000000020001578                OALClearDTLB
+                0x000000002000158c                OALClearITLB
+                0x00000000200015a0                OALFlushDCache
+                0x0000000020001630                OALFlushICache
+                0x0000000020001648                OALEnableICache
+                0x0000000020001658                OALEnableDCache
+                0x0000000020001668                OALEnableMmu
+                0x0000000020001678                WfiForArmPwrOff
+                0x0000000020001798                WakeupHandler
+                0x0000000020001890                ClockForInit
+                0x0000000020001a04                DispExitChar
+                0x0000000020001a14                EnableICache
+                0x0000000020001a24                UART0_ASM_Init
+                0x0000000020001a90                uart_putc
+ .text          0x0000000020001b38      0x454 cp15.o
+                0x0000000020001b38                CoEnableIrq
+                0x0000000020001b48                CoDisableIrq
+                0x0000000020001b58                CoEnableFiq
+                0x0000000020001b68                CoDisableFiq
+                0x0000000020001b78                CoSetIF
+                0x0000000020001b8c                CoWrIF
+                0x0000000020001b94                CoClrIF
+                0x0000000020001ba4                CoEnableVectoredInt
+                0x0000000020001bb4                CoDisableVectoredInt
+                0x0000000020001bc4                CoEnableUnalignedAccess
+                0x0000000020001bd4                CoDisableUnalignedAccess
+                0x0000000020001be4                CoEnableICache
+                0x0000000020001bf4                CoDisableICache
+                0x0000000020001c04                CoEnableDCache
+                0x0000000020001c14                CoDisableDCache
+                0x0000000020001c24                CoEnableAlignFault
+                0x0000000020001c34                CoDisableAlignFault
+                0x0000000020001c44                CoEnableMmu
+                0x0000000020001c54                CoDisableMmu
+                0x0000000020001c64                CoSetFastBusMode
+                0x0000000020001c74                CoSetAsyncBusMode
+                0x0000000020001c84                CoEnableBranchPrediction
+                0x0000000020001c94                CoDisableBranchPrediction
+                0x0000000020001ca4                CoEnableL2Cache
+                0x0000000020001cb4                CoEnableVfp
+                0x0000000020001cc4                CoEnableNeon
+                0x0000000020001cd4                CoSetTTBase
+                0x0000000020001cdc                CoSelTTBReg0
+                0x0000000020001ce8                CoSetDomain
+                0x0000000020001cf0                CoWaitForInterrupt
+                0x0000000020001cfc                CoInvalidateICache
+                0x0000000020001d08                CoInvalidateDCache
+                0x0000000020001d14                CoInvalidateDCacheVA
+                0x0000000020001d1c                CoInvalidateDCacheIndex
+                0x0000000020001d24                CoInvalidateBothCaches
+                0x0000000020001d30                CoCleanDCacheVA
+                0x0000000020001d38                CoCleanDCacheIndex
+                0x0000000020001d40                CoDataSyncBarrier
+                0x0000000020001d48                CoPrefetchICacheLineVA
+                0x0000000020001d50                CoCleanAndInvalidateDCacheVA
+                0x0000000020001d58                CoCleanAndInvalidateDCacheIndex
+                0x0000000020001d60                CoInvalidateITlb
+                0x0000000020001d6c                CoInvalidateITlbVA
+                0x0000000020001d74                CoInvalidateDTlb
+                0x0000000020001d80                CoInvalidateDTlbVA
+                0x0000000020001d88                CoInvalidateBothTlbs
+                0x0000000020001d94                CoSetDCacheLockdownBase
+                0x0000000020001d9c                CoSetICacheLockdownBase
+                0x0000000020001da4                CoLockL2Cache
+                0x0000000020001db4                CoUnLockL2Cache
+                0x0000000020001dc4                CoSetL2CacheAuxCrtlReg
+                0x0000000020001dcc                CoSetDTlbLockdown
+                0x0000000020001dd4                CoSetITlbLockdown
+                0x0000000020001ddc                CoSetL2CacheLines
+                0x0000000020001de8                CoCopyToL2Cache
+                0x0000000020001e3c                CoCopyFromL2Cache
+                0x0000000020001e88                CoStopPLE
+                0x0000000020001e94                CoNonSecureAccCtrl
+                0x0000000020001ea8                CoGetCacheSizeID
+                0x0000000020001eb4                CoGetPAreg
+                0x0000000020001ec0                CoGetNormalMemRemapReg
+                0x0000000020001ecc                CoInvalidateDCacheForV7
+                0x0000000020001f54                CoSetExceptonVectoerBase
+                0x0000000020001f5c                CoSetProcessId
+                0x0000000020001f64                CoSetMpll
+                0x0000000020001f8c                __TEXT_END__ = .
+                0x0000000020001f8c                . = ALIGN (0x4)
+
+.glue_7         0x0000000020001f8c        0x0
+ .glue_7        0x0000000020001f8c        0x0 linker stubs
+
+.glue_7t        0x0000000020001f8c        0x0
+ .glue_7t       0x0000000020001f8c        0x0 linker stubs
+
+.vfp11_veneer   0x0000000020001f8c        0x0
+ .vfp11_veneer  0x0000000020001f8c        0x0 linker stubs
+
+.v4_bx          0x0000000020001f8c        0x0
+ .v4_bx         0x0000000020001f8c        0x0 linker stubs
+
+.iplt           0x0000000020001f8c        0x0
+ .iplt          0x0000000020001f8c        0x0 sieve.o
+
+.rodata         0x0000000020001f8c       0x14
+                0x0000000020001f8c                __RODATA_START__ = .
+ *(.rodata)
+ .rodata        0x0000000020001f8c       0x11 sieve.o
+                0x0000000020001f8c                cstr1
+ *(.rodata.*)
+                0x0000000020001f9d                __RODATA_END__ = .
+                0x0000000020001fa0                . = ALIGN (0x4)
+ *fill*         0x0000000020001f9d        0x3 
+
+.rel.dyn        0x0000000020001fa0        0x0
+ .rel.iplt      0x0000000020001fa0        0x0 sieve.o
+
+.data           0x0000000020001fa0       0x20
+                0x0000000020001fa0                __DATA_START__ = .
+ *(.data)
+ .data          0x0000000020001fa0       0x20 sieve.o
+                0x0000000020001fa0                vfloat
+                0x0000000020001fa8                vdouble
+                0x0000000020001fb0                vdiarray
+ .data          0x0000000020001fc0        0x0 common.o
+ .data          0x0000000020001fc0        0x0 cp15.o
+ .data          0x0000000020001fc0        0x0 startup.o
+ *(.data.*)
+                0x0000000020001fc0                __DATA_END__ = .
+                0x0000000020001fc0                . = ALIGN (0x4)
+
+.igot.plt       0x0000000020001fc0        0x0
+ .igot.plt      0x0000000020001fc0        0x0 sieve.o
+
+.bss            0x0000000020001fc0     0x17b8
+                0x0000000020001fc0                __BSS_START__ = .
+ *(.bss)
+ .bss           0x0000000020001fc0       0x14 sieve.o
+ .bss           0x0000000020001fd4        0x0 common.o
+ .bss           0x0000000020001fd4        0x0 cp15.o
+ .bss           0x0000000020001fd4        0x0 startup.o
+ *(.bss.*)
+                0x0000000020001fd4                __BSS_END__ = .
+                0x0000000020001fd4                . = ALIGN (0x4)
+ *fill*         0x0000000020001fd4        0x4 
+ COMMON         0x0000000020001fd8     0x17a0 sieve.o
+                0x0000000020001fd8                vdblarray
+                0x0000000020001ff8                vpppulong
+                0x0000000020001ffc                vpushort
+                0x0000000020002000                vppppulong
+                0x0000000020002004                vpchar
+                0x0000000020002008                def
+                0x0000000020002010                vtdef2
+                0x0000000020002024                vunion
+                0x000000002000202c                vpint
+                0x0000000020002030                vppuint
+                0x0000000020002034                vdarray
+                0x000000002000203c                vpuint
+                0x0000000020002040                vint
+                0x0000000020002044                ast
+                0x0000000020002058                vushort
+                0x000000002000205c                vppuchar
+                0x0000000020002060                stra2
+                0x00000000200021f0                aun
+                0x0000000020002208                vbfield
+                0x0000000020002218                vuchar
+                0x000000002000221c                vpulong
+                0x0000000020002220                vpshort
+                0x0000000020002224                vtarray
+                0x000000002000224c                vtdef1
+                0x0000000020002250                str6
+                0x0000000020002260                vtripplearray
+                0x0000000020002278                funcptr
+                0x000000002000227c                vshort
+                0x0000000020002280                vppushort
+                0x0000000020002288                sinewave
+                0x0000000020003638                vuint
+                0x000000002000363c                enumvar
+                0x0000000020003640                flags
+                0x0000000020003654                vulong
+                0x0000000020003658                vplong
+                0x000000002000365c                vchar
+                0x0000000020003660                vppulong
+                0x0000000020003664                str2
+                0x0000000020003678                vpuchar
+                0x000000002000367c                varray
+                0x00000000200036a4                vstruct1
+                0x00000000200036ac                stra1
+                0x0000000020003774                vlong
+                0x0000000020003778                _end = .
+                0x0000000020003778                __end = _end
+                [!provide]                        PROVIDE (end = .)
+LOAD sieve.o
+LOAD common.o
+LOAD cp15.o
+LOAD startup.o
+LOAD /usr/local/gcc-arm/gcc-arm-none-eabi-7-2018-q2-update/arm-none-eabi/lib/libc.a
+LOAD /usr/local/gcc-arm/gcc-arm-none-eabi-7-2018-q2-update/lib/gcc/arm-none-eabi/7.3.1/libgcc.a
+OUTPUT(image elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x19c2
+ .debug_info    0x0000000000000000     0x1950 sieve.o
+ .debug_info    0x0000000000001950       0x26 common.o
+ .debug_info    0x0000000000001976       0x26 cp15.o
+ .debug_info    0x000000000000199c       0x26 startup.o
+
+.debug_abbrev   0x0000000000000000      0x457
+ .debug_abbrev  0x0000000000000000      0x41b sieve.o
+ .debug_abbrev  0x000000000000041b       0x14 common.o
+ .debug_abbrev  0x000000000000042f       0x14 cp15.o
+ .debug_abbrev  0x0000000000000443       0x14 startup.o
+
+.debug_aranges  0x0000000000000000       0x80
+ .debug_aranges
+                0x0000000000000000       0x20 sieve.o
+ .debug_aranges
+                0x0000000000000020       0x20 common.o
+ .debug_aranges
+                0x0000000000000040       0x20 cp15.o
+ .debug_aranges
+                0x0000000000000060       0x20 startup.o
+
+.debug_line     0x0000000000000000      0x955
+ .debug_line    0x0000000000000000      0x557 sieve.o
+ .debug_line    0x0000000000000557      0x1ca common.o
+ .debug_line    0x0000000000000721      0x14c cp15.o
+ .debug_line    0x000000000000086d       0xe8 startup.o
+
+.debug_str      0x0000000000000000      0x94c
+ .debug_str     0x0000000000000000      0x8de sieve.o
+                                        0x99b (size before relaxing)
+ .debug_str     0x00000000000008de       0x17 common.o
+                                         0x5d (size before relaxing)
+ .debug_str     0x00000000000008f5        0x7 cp15.o
+                                         0x5b (size before relaxing)
+ .debug_str     0x00000000000008fc       0x50 startup.o
+                                         0x5e (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f sieve.o
+                                         0x80 (size before relaxing)
+
+.ARM.attributes
+                0x0000000000000000       0x39
+ .ARM.attributes
+                0x0000000000000000       0x3b sieve.o
+ .ARM.attributes
+                0x000000000000003b       0x29 common.o
+ .ARM.attributes
+                0x0000000000000064       0x29 cp15.o
+ .ARM.attributes
+                0x000000000000008d       0x29 startup.o
+
+.debug_frame    0x0000000000000000      0x4c4
+ .debug_frame   0x0000000000000000      0x4c4 sieve.o

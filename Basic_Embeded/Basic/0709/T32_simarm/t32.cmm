@@ -1,0 +1,19 @@
+;Add some extra buttons to the toolbar
+
+ menu.rp
+ (
+  add
+  toolbar
+  (
+   separator
+   toolitem "List Tracebuffer" ":alist" "Analyzer.List"
+   separator
+  )
+ )
+
+
+;Start the demo application
+ do armc
+
+ enddo
+
