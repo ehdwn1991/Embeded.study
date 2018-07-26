@@ -27,9 +27,10 @@ test*
 t.c
 t1.c
 
-t*.c
-_*
 
+
+t*.c
+*.txt
 *수업자료*
 # Packages #
 
